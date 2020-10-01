@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from ary-themes.com/html/sinaea/service-detail.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Sep 2020 15:39:47 GMT -->
+<!-- Mirrored from ary-themes.com/html/sinaea/services-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Sep 2020 15:39:47 GMT -->
 <head>
 <meta charset="utf-8">
 <title>SINAEA - Industry and Factory HTML Template | Service Detail</title>
@@ -42,9 +42,9 @@
                 <!-- .Side Nav -->
                 <nav class="side-nav">
                     <ul class="navigation clearfix" id="nav">
-                        <li class="dropdown"><a href="/index">Home</a>
+                        <li class="dropdown"><a href="/">Home</a>
                             <ul>
-                                <li><a href="/index">Home Showcase</a></li>
+                                <li><a href="/">Home Showcase</a></li>
                                 <li><a href="/carossel">Home Carousel</a></li>
                                 <li><a href="/home-banner">Home Banner</a></li>
                             </ul>
@@ -61,12 +61,12 @@
                         <li class="dropdown"><a href="/services">Services</a>
                             <ul>
                                 <li><a href="/services">All Services</a></li>
-                                <li><a href="/service-detail">Civil Enginerring</a></li>
-                                <li><a href="/service-detail">Oil & Gas Engineering</a></li>
-                                <li><a href="/service-detail">Chemical Engineering</a></li>
-                                <li><a href="/service-detail">Agriculture Engineering</a></li>
-                                <li><a href="/service-detail">Mechanical Engineering</a></li>
-                                <li><a href="/service-detail">Service Detail</a></li>
+                                <li><a href="/services-details">Civil Enginerring</a></li>
+                                <li><a href="/services-details">Oil & Gas Engineering</a></li>
+                                <li><a href="/services-details">Chemical Engineering</a></li>
+                                <li><a href="/services-details">Agriculture Engineering</a></li>
+                                <li><a href="/services-details">Mechanical Engineering</a></li>
+                                <li><a href="/services-details">Service Detail</a></li>
                             </ul>
                         </li>
                         <li class="dropdown"><a href="/projects">Projects</a>
@@ -126,9 +126,9 @@
                         <nav class="main-menu navbar-expand-md navbar-light">
                             <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
-                                    <li class=" dropdown"><a href="/index">Home</a>
+                                    <li class=" dropdown"><a href="/">Home</a>
                                         <ul>
-                                            <li><a href="/index">Home Showcase</a></li>
+                                            <li><a href="/">Home Showcase</a></li>
                                             <li><a href="/carossel">Home Carousel</a></li>
                                             <li><a href="/home-banner">Home Banner</a></li>
                                         </ul>
@@ -145,12 +145,12 @@
                                     <li class="dropdown"><a href="/services">Services</a>
                                         <ul>
                                             <li><a href="/services">All Services</a></li>
-                                            <li><a href="/service-detail">Civil Enginerring</a></li>
-                                            <li><a href="/service-detail">Oil & Gas Engineering</a></li>
-                                            <li><a href="/service-detail">Chemical Engineering</a></li>
-                                            <li><a href="/service-detail">Agriculture Engineering</a></li>
-                                            <li><a href="/service-detail">Mechanical Engineering</a></li>
-                                            <li><a href="/service-detail">Service Detail</a></li>
+                                            <li><a href="/services-details">Civil Enginerring</a></li>
+                                            <li><a href="/services-details">Oil & Gas Engineering</a></li>
+                                            <li><a href="/services-details">Chemical Engineering</a></li>
+                                            <li><a href="/services-details">Agriculture Engineering</a></li>
+                                            <li><a href="/services-details">Mechanical Engineering</a></li>
+                                            <li><a href="/services-details">Service Detail</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="projects.html">Projects</a>
@@ -220,7 +220,7 @@
                             <!-- Image Box -->
                             <div class="image-box">
                                 <div class="image wow fadeIn">
-                                    <a href="/assets/images/resource/service-detail.jpg" class="lightbox-image" data-fancybox="gallery"><img src="/assets/images/resource/service-detail.jpg" alt=""></a>
+                                    <a href="/assets/images/resource/services-details.jpg" class="lightbox-image" data-fancybox="gallery"><img src="/assets/images/resource/services-details.jpg" alt=""></a>
                                 </div>
                             </div>
 
@@ -546,5 +546,5 @@
 <script src="/assets/js/color-settings.js"></script>
 </body>
 
-<!-- Mirrored from ary-themes.com/html/sinaea/service-detail.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Sep 2020 15:39:49 GMT -->
+<!-- Mirrored from ary-themes.com/html/sinaea/services-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Sep 2020 15:39:49 GMT -->
 </html>

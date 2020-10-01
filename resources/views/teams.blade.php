@@ -17,9 +17,9 @@
                 <!-- .Side Nav -->
                 <nav class="side-nav">
                     <ul class="navigation clearfix" id="nav">
-                        <li class="dropdown"><a href="/index">Home</a>
+                        <li class="dropdown"><a href="/">Home</a>
                             <ul>
-                                <li><a href="/index">Home Showcase</a></li>
+                                <li><a href="/">Home Showcase</a></li>
                                 <li><a href="/carossel">Home Carousel</a></li>
                                 <li><a href="/home-banner">Home Banner</a></li>
                             </ul>
@@ -36,12 +36,12 @@
                         <li class="dropdown"><a href="/services">Services</a>
                             <ul>
                                 <li><a href="/services">All Services</a></li>
-                                <li><a href="/service-detail">Civil Enginerring</a></li>
-                                <li><a href="/service-detail">Oil & Gas Engineering</a></li>
-                                <li><a href="/service-detail">Chemical Engineering</a></li>
-                                <li><a href="/service-detail">Agriculture Engineering</a></li>
-                                <li><a href="/service-detail">Mechanical Engineering</a></li>
-                                <li><a href="/service-detail">Service Detail</a></li>
+                                <li><a href="/services-details">Civil Enginerring</a></li>
+                                <li><a href="/services-details">Oil & Gas Engineering</a></li>
+                                <li><a href="/services-details">Chemical Engineering</a></li>
+                                <li><a href="/services-details">Agriculture Engineering</a></li>
+                                <li><a href="/services-details">Mechanical Engineering</a></li>
+                                <li><a href="/services-details">Service Detail</a></li>
                             </ul>
                         </li>
                         <li class="dropdown"><a href="/projects">Projects</a>
@@ -101,9 +101,9 @@
                         <nav class="main-menu navbar-expand-md navbar-light">
                             <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
-                                    <li class=" dropdown"><a href="/index">Home</a>
+                                    <li class=" dropdown"><a href="/">Home</a>
                                         <ul>
-                                            <li><a href="/index">Home Showcase</a></li>
+                                            <li><a href="/">Home Showcase</a></li>
                                             <li><a href="/carossel">Home Carousel</a></li>
                                             <li><a href="/home-banner">Home Banner</a></li>
                                         </ul>
@@ -135,7 +135,7 @@
                                             <li><a href="/projects-detail">Project Detail</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="/contact">Contact</a></li>
+                                    <li><a href="/contact-us">Contact</a></li>
                                 </ul> 
 
                             </div>
