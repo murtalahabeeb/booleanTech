@@ -111,12 +111,12 @@
                                     <li class="dropdown"><a href="/services">Services</a>
                                         <ul>
                                             <li><a href="/services">All Services</a></li>
-                                            <li><a href="/service-detail">Civil Enginerring</a></li>
-                                            <li><a href="/service-detail">Oil & Gas Engineering</a></li>
-                                            <li><a href="/service-detail">Chemical Engineering</a></li>
-                                            <li><a href="/service-detail">Agriculture Engineering</a></li>
-                                            <li><a href="/service-detail">Mechanical Engineering</a></li>
-                                            <li><a href="/service-detail">Service Detail</a></li>
+                                            <li><a href="/services-details">Civil Enginerring</a></li>
+                                            <li><a href="/services-details">Oil & Gas Engineering</a></li>
+                                            <li><a href="/services-details">Chemical Engineering</a></li>
+                                            <li><a href="/services-details">Agriculture Engineering</a></li>
+                                            <li><a href="/services-details">Mechanical Engineering</a></li>
+                                            <li><a href="/services-details">Service Detail</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="projects.html">Projects</a>
