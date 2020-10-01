@@ -16,3 +16,61 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/index', function () {
+    return view('index');
+});
+
+Route::get('/carossel', function () {
+    return view('home-carossel');
+});
+
+Route::get('/home-banner', function () {
+    return view('home-banner');
+});
+
+Route::get('/about-us', function () {
+    return view('aboutus');
+});
+
+Route::get('/about-me', function () {
+    return view('aboutme');
+});
+
+
+Route::get('/faqs', function () {
+    return view('faqs');
+});
+
+
+Route::get('/teams', function () {
+    return view('teams');
+});
+
+Route::get('/services', function () {
+    return view('all-services');
+});
+
+
+Route::get('/services-details', function () {
+    return view('services-details');
+});
+
+
+Route::get('/projects', function () {
+    return view('projects');
+});
+
+Route::get('/projects-details', function () {
+    return view('project-details');
+});
+
+
+Route::get('/projects2', function () {
+    return view('project2');
+});
+
+
+Route::get('/contact-us', function () {
+    return view('contact');
+});
