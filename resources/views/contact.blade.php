@@ -164,6 +164,7 @@
         <div class="search-popup">
             <button class="close-search"><span class="fa fa-long-arrow-alt-up"></span></button>
             <form method="post" action="http://ary-themes.com/html/sinaea/blog.html">
+                @csrf
                 <div class="form-group">
                     <input type="search" name="search-field" value="" placeholder="Search" required="">
                     <button type="submit"><i class="fa fa-search"></i></button>
