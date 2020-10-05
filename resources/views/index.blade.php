@@ -1,5 +1,6 @@
 @extends('layout.layout')
-
+@section("title")
+<title>BooleanTech| Home</title>
 @section('content')
 
 <div class="page-wrapper">
@@ -139,7 +140,7 @@
                                         <h2 class="mask-loader">Welcome</h2>
                                         <div class="text mask-loader">
                                             We are a boutique consultation firm that specialize in building great customer experiences through mobile, web and conversational software. </div>
-                                        <div class="btn-box mask-loader"><a href="about-us.html" class="theme-btn btn-style-two"><span class="btn-title">About Us</span></a></div>
+                                        <div class="btn-box mask-loader"><a href="/about-us" class="theme-btn btn-style-two"><span class="btn-title">About Us</span></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -156,7 +157,7 @@
                                 <div class="auto-container">
                                     <h3>Software <br> <span class="theme_color">Development</span></h3>
                                     <div class="text">We are a boutique consultation firm that specialize in <br>building great customer experiences through mobile, web <br>and conversational software. </div>
-                                    <div class="btn-box"><a href="about-us.html" class="theme-btn btn-style-two"><span class="btn-title">Our Services</span></a></div>
+                                    <div class="btn-box"><a href="/about-us" class="theme-btn btn-style-two"><span class="btn-title">Our Services</span></a></div>
                                 </div>
                             </div>
                         </div>
@@ -172,7 +173,7 @@
                                 <div class="auto-container">
                                     <h3>Reimagine Your <span class="theme_color">Business</span> </h3>
                                     <div class="text">We build custom software application <br>for a transforming world. </div>
-                                    <div class="btn-box"><a href="services.html" class="theme-btn btn-style-two"><span class="btn-title">Our Services</span></a></div>
+                                    <div class="btn-box"><a href="/services" class="theme-btn btn-style-two"><span class="btn-title">Our Services</span></a></div>
                                 </div>
                             </div>
                         </div>
@@ -188,7 +189,7 @@
                                 <div class="auto-container">
                                     <h3>Whatever We Start<br> We Think Through To  <span class="theme_color">The End</span></h3>
                                     <div class="text">We do make a plan for designing and developing mobile apps and web development solutions <br> that help businesses to solve organizational challenges, improve sales, and customer engagement. <br> From project ideation to release in the market, we deliver our clients with the best software <br> development service for their business.</div>
-                                    <div class="btn-box"><a href="about-us.html" class="theme-btn btn-style-two"><span class="btn-title">Our Projects</span></a></div>
+                                    <div class="btn-box"><a href="/about-us" class="theme-btn btn-style-two"><span class="btn-title">Our Projects</span></a></div>
                                 </div>
                             </div>
                         </div>
@@ -204,7 +205,7 @@
                                 <div class="auto-container">
                                     <h3>Everybody Gets Exactly <br><span class="theme_color">What They Need</span></h3>
                                     <div class="text">We provide end-to-end software development <br> services without compromising standard processes <br> and quality assurance. We have served multiple <br> companies globally transforming concepts into <br> genuine products. </div>
-                                    <div class="btn-box"><a href="team.html" class="theme-btn btn-style-two"><span class="btn-title">Our Team</span></a></div>
+                                    <div class="btn-box"><a href="/teams" class="theme-btn btn-style-two"><span class="btn-title">Our Team</span></a></div>
                                 </div>
                             </div>
                         </div>
@@ -220,7 +221,7 @@
                                 <div class="auto-container">
                                     <h3>Getting Things<span class="theme_color"> Done</span></h3>
                                     <div class="text">Getting Things Done is the mantra we live by. Our ingenious team <br> has a “can-do” attitude and believes in Getting Things Done. This <br> mantra makes sense when we deliver our client’s project on time. </div>
-                                    <div class="btn-box"><a href="contact.html" class="theme-btn btn-style-two"><span class="btn-title">Contact Us</span></a></div>
+                                    <div class="btn-box"><a href="/contact" class="theme-btn btn-style-two"><span class="btn-title">Contact Us</span></a></div>
                                 </div>
                             </div>
                         </div>
