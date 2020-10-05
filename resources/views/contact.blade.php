@@ -1,5 +1,6 @@
 @extends('layout.layout')
-
+@section("title")
+<title>BooleanTech| Contact Us</title>
 @section('content')
 
 <div class="page-wrapper">

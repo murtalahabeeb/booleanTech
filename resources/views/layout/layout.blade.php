@@ -4,7 +4,7 @@
 <!-- Mirrored from ary-themes.com/html/sinaea/about-me.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Sep 2020 15:39:30 GMT -->
 <head>
 <meta charset="utf-8">
-<title>BooleanTech| About Me</title>
+@yield("title")
 <!-- Stylesheets -->
 <link href="/assets/css/bootstrap.css" rel="stylesheet">
 <link href="/assets/css/style.css" rel="stylesheet">

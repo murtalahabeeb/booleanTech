@@ -1,5 +1,7 @@
 @extends('layout.layout')
 
+@section("title")
+<title>BooleanTech| About Me</title>
 @section('content')
 <div class="page-wrapper">
     <!-- Preloader -->
