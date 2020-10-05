@@ -4,7 +4,7 @@
 <!-- Mirrored from ary-themes.com/html/sinaea/services-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Sep 2020 15:39:47 GMT -->
 <head>
 <meta charset="utf-8">
-<title>SINAEA - Industry and Factory HTML Template | Service Detail</title>
+<title>BooleanTech | Seo & Digital Marketing</title>
 <!-- Stylesheets -->
 <link href="/assets/css/bootstrap.css" rel="stylesheet">
 <link href="/assets/css/style.css" rel="stylesheet">
@@ -23,6 +23,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
 <!--[if lt IE 9]><script src="/assets/js/respond.js"></script><![endif]-->
+<script src="https://kit.fontawesome.com/7898c5d0b6.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
