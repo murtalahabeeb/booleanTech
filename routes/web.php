@@ -49,8 +49,26 @@ Route::get('/services', function () {
 });
 
 
-Route::get('/services-details', function () {
-    return view('services-details');
+Route::get('/web-dev', function () {
+    return view('web-dev');
+});
+
+
+Route::get('/ios-dev', function () {
+    return view('ios-dev');
+});
+
+Route::get('/android-dev', function () {
+    return view('android-dev');
+});
+
+Route::get('/ui-ux', function () {
+    return view('ui-ux');
+});
+
+
+Route::get('/seo-digital-marketing', function () {
+    return view('seo');
 });
 
 

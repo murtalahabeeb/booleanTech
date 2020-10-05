@@ -1,28 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from ary-themes.com/html/sinaea/services-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Sep 2020 15:39:47 GMT -->
+<!-- Mirrored from ary-themes.com/html/sinaea/project-detail.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Sep 2020 15:40:04 GMT -->
 <head>
 <meta charset="utf-8">
-<title>SINAEA - Industry and Factory HTML Template | Service Detail</title>
+<title>SINAEA - Industry and Factory HTML Template | Projects Detail</title>
 <!-- Stylesheets -->
-<link href="/assets/css/bootstrap.css" rel="stylesheet">
-<link href="/assets/css/style.css" rel="stylesheet">
-<link href="/assets/css/responsive.css" rel="stylesheet">
+<link href="assets/css/bootstrap.css" rel="stylesheet">
+<link href="assets/css/style.css" rel="stylesheet">
+<link href="assets/css/responsive.css" rel="stylesheet">
 <!--Color Switcher Mockup-->
-<link href="/assets/css/color-switcher-design.css" rel="stylesheet">
+<link href="assets/css/color-switcher-design.css" rel="stylesheet">
 
 <!--Color Themes-->
-<link id="theme-color-file" href="/assets/css/color-themes/default-theme.css" rel="stylesheet">
+<link id="theme-color-file" href="assets/css/color-themes/default-theme.css" rel="stylesheet">
 
-<link rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-icon">
-<link rel="icon" href="/assets/images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
+<link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
 
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="/assets/js/respond.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="assets/js/respond.js"></script><![endif]-->
 </head>
 
 <body>
@@ -42,45 +42,45 @@
                 <!-- .Side Nav -->
                 <nav class="side-nav">
                     <ul class="navigation clearfix" id="nav">
-                        <li class="dropdown"><a href="/">Home</a>
+                        <li class="dropdown"><a href="index.html">Home</a>
                             <ul>
-                                <li><a href="/">Home Showcase</a></li>
-                                <li><a href="/carossel">Home Carousel</a></li>
-                                <li><a href="/home-banner">Home Banner</a></li>
+                                <li><a href="index.html">Home Showcase</a></li>
+                                <li><a href="index-2.html">Home Carousel</a></li>
+                                <li><a href="index-3.html">Home Banner</a></li>
                             </ul>
                         </li>
-                        <li class="current dropdown"><a href="/about-us">About</a>
+                        <li class="dropdown"><a href="about-us.html">About</a>
                             <ul>
-                                <li><a href="/about-us">About Us</a></li>
+                                <li><a href="about-us.html">About Us</a></li>
                                 <li><a href="about-me.html">About Me</a></li>
-                                <li><a href="/faqs">FAQ's</a></li>
-                                <li><a href="/team">Team</a></li>
+                                <li><a href="faqs.html">FAQ's</a></li>
+                                <li><a href="team.html">Team</a></li>
+                                <li><a href="pricing.html">Pricing</a></li>
                                 <li><a href="coming-soon.html">Coming Soon</a></li>
                             </ul>
                         </li>
-                        <li class="dropdown"><a href="/services">Services</a>
+                        <li class="dropdown"><a href="services.html">Services</a>
                             <ul>
                                 <li><a href="/services">All Services</a></li>
-                                <li><a href="/services-details">Civil Enginerring</a></li>
-                                <li><a href="/services-details">Oil & Gas Engineering</a></li>
-                                <li><a href="/services-details">Chemical Engineering</a></li>
-                                <li><a href="/services-details">Agriculture Engineering</a></li>
-                                <li><a href="/services-details">Mechanical Engineering</a></li>
-                                <li><a href="/services-details">Service Detail</a></li>
+                                <li><a href="/web-dev">Web Development</a></li>
+                                <li><a href="/ios-dev">Iphone App Development</a></li>
+                                <li><a href="/android-dev">Android App Development</a></li>
+                                <li><a href="/ui-ux">UI/UX Design And Prototyping</a></li>
+                                <li><a href="/seo-digital-marketing">Degital Marketing & SEO</a></li>
                             </ul>
                         </li>
-                        <li class="dropdown"><a href="/projects">Projects</a>
+                        <li class="current dropdown"><a href="/projects-details">Products</a>
                             <ul>
-                                <li><a href="/projects">Project with Filters</a></li>
-                                <li><a href="/projects2">Project Slide Show</a></li>
-                                <li><a href="/project-detail">Project Detail</a></li>
+                                <li><a href="#">Resulta-School Management System</a></li>
+                                <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
+                                <li><a href="/projects-details">Projects Details</a></li>
                             </ul>
                         </li>
                         
-                        <li><a href="/contact-us">Contact</a></li>
+                        <li><a href="contact.html">Contact</a></li>
                     </ul> 
                 </nav><!-- /.Side-menu -->
-                
+
                 <div class="contact-info-box">
                     <!--Info Box-->
                     <div class="info-box">
@@ -118,7 +118,7 @@
             <div class="outer-container">
                 <div class="main-box clearfix">
                     <div class="logo-box">
-                        <div class="logo"><a href="index.html"><img src="/assets/images/logo.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="index.html"><img src="assets/images/logo.png" alt="" title=""></a></div>
                     </div>
 
                     <div class="nav-outer">
@@ -126,41 +126,41 @@
                         <nav class="main-menu navbar-expand-md navbar-light">
                             <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
-                                    <li class=" dropdown"><a href="/">Home</a>
+                                    <li class="dropdown"><a href="index.html">Home</a>
                                         <ul>
-                                            <li><a href="/">Home Showcase</a></li>
-                                            <li><a href="/carossel">Home Carousel</a></li>
-                                            <li><a href="/home-banner">Home Banner</a></li>
+                                            <li><a href="index.html">Home Showcase</a></li>
+                                            <li><a href="index-2.html">Home Carousel</a></li>
+                                            <li><a href="index-3.html">Home Banner</a></li>
                                         </ul>
                                     </li>
-                                    <li class="current dropdown"><a href="/about-us">About</a>
+                                    <li class="dropdown"><a href="about-us.html">About</a>
                                         <ul>
-                                            <li><a href="/about-us">About Us</a></li>
+                                            <li><a href="about-us.html">About Us</a></li>
                                             <li><a href="about-me.html">About Me</a></li>
-                                            <li><a href="/faqs">FAQ's</a></li>
-                                            <li><a href="/team">Team</a></li>
-                                            <li><a href="coming-soon.html">Coming Soon</a></li>
+                                            <li><a href="faqs.html">FAQ's</a></li>
+                                            <li><a href="team.html">Team</a></li>
+                                            
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="/services">Services</a>
+                                    <li class="dropdown"><a href="services.html">Services</a>
                                         <ul>
-                                            <li><a href="/services">All Services</a></li>
-                                            <li><a href="/services-details">Civil Enginerring</a></li>
-                                            <li><a href="/services-details">Oil & Gas Engineering</a></li>
-                                            <li><a href="/services-details">Chemical Engineering</a></li>
-                                            <li><a href="/services-details">Agriculture Engineering</a></li>
-                                            <li><a href="/services-details">Mechanical Engineering</a></li>
-                                            <li><a href="/services-details">Service Detail</a></li>
+                                        <li><a href="/services">All Services</a></li>
+                                        <li><a href="/web-dev">Web Development</a></li>
+                                        <li><a href="/ios-dev">Iphone App Development</a></li>
+                                        <li><a href="/android-dev">Android App Development</a></li>
+                                        <li><a href="/ui-ux">UI/UX Design And Prototyping</a></li>
+                                        <li><a href="/seo-digital-marketing">Degital Marketing & SEO</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="projects.html">Projects</a>
+                                    <li class="dropdown"><a href="/projects-details">Products</a>
                                         <ul>
-                                            <li><a href="/projects">Project with Filters</a></li>
-                                            <li><a href="/projects2">Project Slide Show</a></li>
-                                            <li><a href="/projects-detail">Project Detail</a></li>
+                                            <li><a href="#">Resulta-School Management System</a></li>
+                                            <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
+                                            <li><a href="/projects-details">Projects Details</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="/contact-us">Contact</a></li>
+                                    
+                                    <li><a href="contact.html">Contact</a></li>
                                 </ul> 
 
                             </div>
@@ -169,6 +169,7 @@
 
                         <div class="outer-box clearfix">
                             <!-- Shoppping Car -->
+                            
                             
 
                             <!-- Search Btn -->
@@ -199,152 +200,112 @@
         <!-- End Search Popup -->
 
         <!--Page Title-->
-        <section class="page-title" style="background-image:url(/assets/images/background/9.jpg)">
+        <section class="page-title" style="background-image:url(assets/images/background/7.jpg)">
             <div class="auto-container">
-                <h2>Service Detail</h2>
+                <h2>Project Detail</h2>
                 <ul class="page-breadcrumb">
                     <li><a href="index.html">home</a></li>
-                    <li>Service Detail</li>
+                    <li>Project Detail</li>
                 </ul>
             </div>
         </section>
         <!--End Page Title-->
 
-        <!-- Service Detail Section -->
-        <div class="service-detail-section">
+        <!-- Project Detail -->
+        <section class="project-detail">
             <div class="auto-container">
-                <div class="row">
-                    <!--Content Side-->
-                    <div class="content-side col-lg-8 col-md-12 col-sm-12 order-2">
-                        <div class="service-detail">
-                            <!-- Image Box -->
-                            <div class="image-box">
-                                <div class="image wow fadeIn">
-                                    <a href="/assets/images/resource/services-details.jpg" class="lightbox-image" data-fancybox="gallery"><img src="/assets/images/resource/services-details.jpg" alt=""></a>
-                                </div>
-                            </div>
-
-                            <!--Title Style One-->
-                            <div class="content-box"> 
-                                <h2>Civil Engineering</h2>
-                                <p>Expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself,</p>
-                                <p>Occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure. because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself.</p>
-                                <div class="two-column row">
-                                    <div class="text-column col-lg-6 col-md-6 col-sm-12 order-2">
-                                        <p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure. because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself.</p>
-                                    </div>
-                                    <div class="image-column col-lg-6 col-md-6 col-sm-12">
-                                        <figure class="image"><a href="/assets/images/resource/service-img.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
-                                    </div>
-                                </div>
-                                <h4>Key Benefits of Service</h4>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do ei usmod tem incididunt. enim ad minim veniam, quis nostrud exer citation ullamco laboris nisiut aliquip ex commodo consequat duis aute. irure dolor. excepteur sint occaecat cupidatat non proident.</p>
-                                <div class="feature-box row">
-
-                                    <!-- Feature Block -->
-                                    <div class="feature-block-two col-xl-6 col-lg-12 col-md-6 col-sm-12 wow fadeInUp">
-                                        <div class="inner-box">
-                                            <span class="icon flaticon-project-management"></span>
-                                            <h4>Creative Ideas</h4>
-                                            <div class="text">A high level service provider that recommended to any company.</div>
-                                        </div>
-                                    </div>
-
-                                    <!-- Feature Block -->
-                                    <div class="feature-block-two col-xl-6 col-lg-12 col-md-6 col-sm-12 wow fadeInUp">
-                                        <div class="inner-box">
-                                            <span class="icon flaticon-mechanic"></span>
-                                            <h4>Expert Engineers</h4>
-                                            <div class="text">A high level service provider that recommended to any company.</div>
-                                        </div>
-                                    </div>
-
-                                    <!-- Feature Block -->
-                                    <div class="feature-block-two col-xl-6 col-lg-12 col-md-6 col-sm-12 wow fadeInUp">
-                                        <div class="inner-box">
-                                            <span class="icon flaticon-24-hours"></span>
-                                            <h4>Professional Support</h4>
-                                            <div class="text">A high level service provider that recommended to any company.</div>
-                                        </div>
-                                    </div>
-
-                                    <!-- Feature Block -->
-                                    <div class="feature-block-two col-xl-6 col-lg-12 col-md-6 col-sm-12 wow fadeInUp">
-                                        <div class="inner-box">
-                                            <span class="icon flaticon-team"></span>
-                                            <h4>Compatitive Price</h4>
-                                            <div class="text">A high level service provider that recommended to any company.</div>
-                                        </div>
-                                    </div>
-
-                                    <!-- Feature Block -->
-                                    <div class="feature-block-two col-xl-6 col-lg-12 col-md-6 col-sm-12 wow fadeInUp">
-                                        <div class="inner-box">
-                                            <span class="icon flaticon-manufacturing-1"></span>
-                                            <h4>Quality Product</h4>
-                                            <div class="text">A high level service provider that recommended to any company.</div>
-                                        </div>
-                                    </div>
-
-                                    <!-- Feature Block -->
-                                    <div class="feature-block-two col-xl-6 col-lg-12 col-md-6 col-sm-12 wow fadeInUp">
-                                        <div class="inner-box">
-                                            <span class="icon flaticon-clock-4"></span>
-                                            <h4>Quick Delivery </h4>
-                                            <div class="text">A high level service provider that recommended to any company.</div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <p>Sunt in culpa qui officia deserunt mollit anim est laborum. Sed perspiciatis unde omnis iste natus error sit volup  tatem accusantium dolore mque laudantium, totam rem aperiam eaque ipsa quae ab illo inventore.enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
-                            </div>
-                        </div><!-- Service Detail -->
-                    </div>
-
-                    <!--Sidebar Side-->
-                    <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
-                        <aside class="sidebar services-sidebar">
-
-                            <!-- Services Cat List -->
-                            <div class="sidebar-widget categories">
-                                <ul class="cat-list">
-                                    <li><a href="services.html">All Services</a></li>
-                                    <li class="active"><a href="service-detail.html">Civil Enginerring</a></li>
-                                    <li><a href="service-detail.html">Oil & Gas Engineering</a></li>
-                                    <li><a href="service-detail.html">Chemical Engineering</a></li>
-                                    <li><a href="service-detail.html">Agriculture Engineering</a></li>
-                                    <li><a href="service-detail.html">Mechanical Engineering</a></li>
-                                    <li><a href="service-detail.html">Service Detail</a></li>
-                                </ul>
-                            </div>
-
-                            <!--Brochure Box-->
-                            <div class="sidebar-widget brochure-box">
-                                <div class="inner">
-                                    <h4>Download Brochures</h4>
-                                    <div class="text">Etiam tortor lorem, auctor ut orci ut, vehicula ultricies mauris. Sed pulvinar scelerisque.</div>
-                                    <a class="theme-btn btn-style-one" href="contact.html"><span class="btn-title"><i class="fa fa-file-pdf"></i> Download Brochures</span></a>
-                                    <a class="theme-btn btn-style-one" href="contact.html"><span class="btn-title"><i class="fa fa-file-pdf"></i> Company Presentation</span></a>
-                                </div>
-                            </div>  
-
-
-                            <!-- Brochure -->
-                            <div class="sidebar-widget help-box">
-                                <div class="inner-box">
-                                    <h6>Have You Any Requirement of Industrial Work ?</h6>
-                                    <ul class="info-box">
-                                        <li><span class="icon fa fa-envelope"></span> <a href="mailto:hello@example.com">hello@example.com</a></li>
-                                        <li><span class="icon fa fa-phone"></span> <a href="tel:(021)2353256">(021) 235 3256</a></li>
-                                    </ul>
-                                    <a class="theme-btn btn-style-two" href="contact.html"><span class="btn-title">Contact Us</span></a>
-                                </div>
-                            </div>
-                        </aside>
+                <!-- Upper Box -->
+                <div class="upper-box">
+                    <div class="single-item-carousel owl-carousel owl-theme">
+                        <figure class="image"><a href="assets/images/resource/project-detail.jpg" class="lightbox-image"><img src="assets/images/resource/project-detail.jpg" alt=""></a></figure>
+                        <figure class="image"><a href="assets/images/resource/project-detail-2.jpg" class="lightbox-image"><img src="assets/images/resource/project-detail-2.jpg" alt=""></a></figure>
+                        <figure class="image"><a href="assets/images/resource/project-detail-3.jpg" class="lightbox-image"><img src="assets/images/resource/project-detail-3.jpg" alt=""></a></figure>
                     </div>
                 </div>
+
+                <!-- Lower Content -->
+                <div class="lower-content">
+                    <div class="row">
+                        <div class="text-column col-lg-8 col-md-12 col-sm-12">
+                            <h2>Automotive Manufacturing</h2>
+                            <p><strong>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</strong></p>
+                            <p>Using a high contrast palette of cool grey and blue against the warm cream and wood tones created a dramatic, yet inviting place for lounging and entertaining. Transitional lighting and furniture complete this beautiful space. and Notice this room’s natural feel.</p>
+                            <ul class="list-style-two clearfix">
+                                <li>Five passengers set sail that day for a hour</li>
+                                <li>Till the one day when the lady met this fellow</li>
+                                <li>Family thats the way we all became ready</li>
+                                <li>Champion the cause of the innocent career</li>
+                                <li>Now were up in the big leagues getting’ turn</li>
+                                <li>The powerless in a world of criminals operate</li>
+                            </ul>
+                            <blockquote> Great explorer of the truth, the master-builder of human happiness no one rejects, dislikes, or avoids pleasure itself, because it is pleasure,but because.
+                                <cite><strong>Mattew Stocks -</strong> Project Manager</cite>
+                            </blockquote>
+                            <p>The law never will texas tea here's the story of a man named Brady on who was busy with three boys of his own that this group would somehow form a family that's the way we alone became the Brady Bunch doin' it our way nothin's gonna turn us back now straight a family that's the way we alone became the Brady our way bee straight ahead and on the track now we're gonna make our dreams.</p>
+                            <ul class="social-icon-two">
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-skype"></i></a></li>
+                                <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div>
+
+                        <div class="info-column col-lg-4 col-md-12 col-sm-12">
+                            <h2>Project info</h2>
+                            <ul class="project-info clearfix">
+                                <li>
+                                    <span class="icon fa fa-user"></span>
+                                    <strong>Client</strong>
+                                    <p>Modern Designers</p>
+                                </li>
+
+                                <li>
+                                    <span class="icon fa fa-folder"></span>
+                                    <strong>Category</strong>
+                                    <p>Residential Design</p>
+                                </li>
+
+                                <li>
+                                    <span class="icon fa fa-calendar-alt"></span>
+                                    <strong>Start Date</strong>
+                                    <p>17th Dec 2018</p>
+                                </li>
+
+                                <li>
+                                    <span class="icon far fa-calendar-alt"></span>
+                                    <strong>End Date</strong>
+                                    <p>21st Feb 2019</p>
+                                </li>
+
+                                <li>
+                                    <span class="icon fa fa-dollar-sign"></span>
+                                    <strong>Project Value</strong>
+                                    <p>$2650.00</p>
+                                </li>
+
+                                <li>
+                                    <span class="icon fa fa-paper-plane"></span>
+                                    <strong>Location</strong>
+                                    <p>Newyork City, USA</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Load More Option -->
+                <div class="load-more-option">
+                    <ul class="clearfix">
+                        <li class="prev pull-left"><a href="project-detail.html"><span class="fa fa-angle-left"></span></a></li>
+                        <li class="load-more"><a href="projects.html"><span class="fa fa-th"></span></a></li>
+                        <li class="next pull-right"><a href="project-detail.html"><span class="fa fa-angle-right"></span></a></li>
+                    </ul>
+                </div>
             </div>
-        </div>
-        <!-- End Service Detail Section -->
+        </section>
+        <!--End Project Detail -->
+
 
         <!-- Clients Section -->
         <section class="clients-section">
@@ -352,14 +313,14 @@
                 <div class="sponsors-outer">
                     <!--Sponsors Carousel-->
                     <ul class="sponsors-carousel owl-carousel owl-theme">
-                        <li class="slide-item"><figure class="image"><a href="#"><img src="/assets/images/clients/1.png" alt=""></a></figure></li>
-                        <li class="slide-item"><figure class="image"><a href="#"><img src="/assets/images/clients/2.png" alt=""></a></figure></li>
-                        <li class="slide-item"><figure class="image"><a href="#"><img src="/assets/images/clients/3.png" alt=""></a></figure></li>
-                        <li class="slide-item"><figure class="image"><a href="#"><img src="/assets/images/clients/4.png" alt=""></a></figure></li>
-                        <li class="slide-item"><figure class="image"><a href="#"><img src="/assets/images/clients/5.png" alt=""></a></figure></li>
-                        <li class="slide-item"><figure class="image"><a href="#"><img src="/assets/images/clients/1.png" alt=""></a></figure></li>
-                        <li class="slide-item"><figure class="image"><a href="#"><img src="/assets/images/clients/2.png" alt=""></a></figure></li>
-                        <li class="slide-item"><figure class="image"><a href="#"><img src="/assets/images/clients/3.png" alt=""></a></figure></li>
+                        <li class="slide-item"><figure class="image"><a href="#"><img src="assets/images/clients/1.png" alt=""></a></figure></li>
+                        <li class="slide-item"><figure class="image"><a href="#"><img src="assets/images/clients/2.png" alt=""></a></figure></li>
+                        <li class="slide-item"><figure class="image"><a href="#"><img src="assets/images/clients/3.png" alt=""></a></figure></li>
+                        <li class="slide-item"><figure class="image"><a href="#"><img src="assets/images/clients/4.png" alt=""></a></figure></li>
+                        <li class="slide-item"><figure class="image"><a href="#"><img src="assets/images/clients/5.png" alt=""></a></figure></li>
+                        <li class="slide-item"><figure class="image"><a href="#"><img src="assets/images/clients/1.png" alt=""></a></figure></li>
+                        <li class="slide-item"><figure class="image"><a href="#"><img src="assets/images/clients/2.png" alt=""></a></figure></li>
+                        <li class="slide-item"><figure class="image"><a href="#"><img src="assets/images/clients/3.png" alt=""></a></figure></li>
                     </ul>
                 </div>
             </div>        
@@ -379,10 +340,10 @@
                                 <div class="footer-column col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                     <div class="footer-widget about-widget">
                                         <div class="logo">
-                                            <a href="index.html"><img src="/assets/images/logo.png" alt="" /></a>
+                                            <a href="/"><img src="/assets/assets/images/logo.png" alt="" /></a>
                                         </div>
                                         <div class="text">
-                                            <p>We have very good strength in innovative technology and tools with over 35 years of experience. We makes long-term investments goal in global companies in different sectors, mainly in Europe and other countries.</p>           
+                                            <p>We are a boutique consultation firm that specialize in building great customer experiences through mobile, web and conversational software..</p>           
                                         </div>
                                         <ul class="social-icon-two">
                                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -424,12 +385,11 @@
                                     <div class="footer-widget useful-links">
                                         <h2 class="widget-title">Useful Links</h2>
                                         <ul class="user-links">
-                                            <li><a href="index-2.html">Home</a></li>
-                                            <li><a href="about-us.html">About Us</a></li>
-                                            <li><a href="services.html">Services</a></li>
-                                            <li><a href="projects.html">Projects</a></li>
-                                            <li><a href="blog.html">Blogs</a></li>
-                                            <li><a href="contact.html">Contact Us</a></li>
+                                            <li><a href="/">Home</a></li>
+                                            <li><a href="/about-us">About Us</a></li>
+                                            <li><a href="/services">Services</a></li>
+                                            <li><a href="/projects">Projects</a></li>
+                                            <li><a href="/contact-us">Contact Us</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -449,17 +409,25 @@
 
                                                 <li>
                                                     <span class="icon flaticon-call-1"></span>
-                                                    <div class="text"><a href="tel:+1-345-5678-77">+1-345-5678-77</a></div>
+                                                    <div class="text"><a href="tel:+234-909-426-7360">+234 909 426 7360</a></div>
+                                                </li>
+                                                <li>
+                                                    <span class="icon flaticon-call-1"></span>
+                                                    <div class="text"><a href="tel:+234-902-208-1910">+234 902 208 1910</a></div>
                                                 </li>
 
                                                 <li>
                                                     <span class="icon flaticon-paper-plane"></span>
-                                                    <div class="text"><a href="mailto:support@example.com">support@example.com</a></div>
+                                                    <div class="text"><a href="mailto:info@thebooleantech.com.ng">info@thebooleantech.com.ng</a></div>
+                                                </li>
+                                                <li>
+                                                    <span class="icon flaticon-paper-plane"></span>
+                                                    <div class="text"><a href="mailto:thebooleantech@gmail.com">thebooleantech@gmail.com</a></div>
                                                 </li>
 
                                                 <li>
                                                     <span class="icon flaticon-worldwide"></span>
-                                                    <div class="text">13005 Greenville Avenue<br> California, TX 70240</div>
+                                                    <div class="text">Independence Avenue, CBD, Abuja.</div>
                                                 </li>
                                             </ul>
                                         </div>
@@ -484,7 +452,7 @@
                         </div>
                         
                         <div class="copyright-text">
-                            <p>© Copyright 2019 All Rights Reserved by <a href="index.html">Bold_Touch</a></p>
+                            <p>© Copyright 2020 -<a href="/">The Boolean Tech</a> All Rights Reserved. </p>
                         </div>
                     </div>
                 </div>
@@ -509,14 +477,14 @@
     </div>
     <div class="various-color clearfix">
         <div class="colors-list">
-            <span class="palate default-color active" data-theme-file="/assets/css/color-themes/default-theme.css"></span>
-            <span class="palate green-color" data-theme-file="/assets/css/color-themes/green-theme.css"></span>
-            <span class="palate blue-color" data-theme-file="/assets/css/color-themes/blue-theme.css"></span>
-            <span class="palate orange-color" data-theme-file="/assets/css/color-themes/orange-theme.css"></span>
-            <span class="palate purple-color" data-theme-file="/assets/css/color-themes/purple-theme.css"></span>
-            <span class="palate teal-color" data-theme-file="/assets/css/color-themes/teal-theme.css"></span>
-            <span class="palate brown-color" data-theme-file="/assets/css/color-themes/brown-theme.css"></span>
-            <span class="palate redd-color" data-theme-file="/assets/css/color-themes/redd-color.css"></span>
+            <span class="palate default-color active" data-theme-file="assets/css/color-themes/default-theme.css"></span>
+            <span class="palate green-color" data-theme-file="assets/css/color-themes/green-theme.css"></span>
+            <span class="palate blue-color" data-theme-file="assets/css/color-themes/blue-theme.css"></span>
+            <span class="palate orange-color" data-theme-file="assets/css/color-themes/orange-theme.css"></span>
+            <span class="palate purple-color" data-theme-file="assets/css/color-themes/purple-theme.css"></span>
+            <span class="palate teal-color" data-theme-file="assets/css/color-themes/teal-theme.css"></span>
+            <span class="palate brown-color" data-theme-file="assets/css/color-themes/brown-theme.css"></span>
+            <span class="palate redd-color" data-theme-file="assets/css/color-themes/redd-color.css"></span>
         </div>
     </div>
     <div class="lower-options">
@@ -529,22 +497,22 @@
     <a href="#" class="purchase-btn">Purchase now!</a>
 </div><!-- End Color Switcher -->
 
-<script src="/assets/js/jquery.js"></script> 
-<script src="/assets/js/popper.min.js"></script>
-<script src="/assets/js/bootstrap.min.js"></script>
-<script src="/assets/js/owl.js"></script>
-<script src="/assets/js/wow.js"></script>
-<script src="/assets/js/mixitup.js"></script>
-<script src="/assets/js/appear.js"></script>
-<script src="/assets/js/jquery.stellar.min.js"></script>
-<script src="/assets/js/jquery.fancybox.js"></script>
-<script src="/assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
-<script src="/assets/js/swiper.min.js"></script>
-<script src="/assets/js/TweenMax.min.js"></script>
-<script src="/assets/js/script.js"></script>
+<script src="assets/js/jquery.js"></script> 
+<script src="assets/js/popper.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/owl.js"></script>
+<script src="assets/js/wow.js"></script>
+<script src="assets/js/mixitup.js"></script>
+<script src="assets/js/appear.js"></script>
+<script src="assets/js/jquery.stellar.min.js"></script>
+<script src="assets/js/jquery.fancybox.js"></script>
+<script src="assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="assets/js/swiper.min.js"></script>
+<script src="assets/js/TweenMax.min.js"></script>
+<script src="assets/js/script.js"></script>
 <!-- Color Setting -->
-<script src="/assets/js/color-settings.js"></script>
+<script src="assets/js/color-settings.js"></script>
 </body>
 
-<!-- Mirrored from ary-themes.com/html/sinaea/services-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Sep 2020 15:39:49 GMT -->
+<!-- Mirrored from ary-themes.com/html/sinaea/project-detail.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Sep 2020 15:40:34 GMT -->
 </html>

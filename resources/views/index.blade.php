@@ -17,38 +17,37 @@
                 <!-- .Side Nav -->
                 <nav class="side-nav">
                     <ul class="navigation clearfix" id="nav">
-                        <li class="dropdown"><a href="/">Home</a>
+                        <li class="current dropdown"><a href="/">Home</a>
                             <ul>
                                 <li><a href="/">Home Showcase</a></li>
                                 <li><a href="/carossel">Home Carousel</a></li>
                                 <li><a href="/home-banner">Home Banner</a></li>
                             </ul>
                         </li>
-                        <li class="current dropdown"><a href="/about-us">About</a>
+                        <li class="dropdown"><a href="/about-us">About</a>
                             <ul>
                                 <li><a href="/about-us">About Us</a></li>
-                                <li><a href="about-me.html">About Me</a></li>
+                                <li><a href="/about-me">About Me</a></li>
                                 <li><a href="/faqs">FAQ's</a></li>
-                                <li><a href="/team">Team</a></li>
-                                <li><a href="coming-soon.html">Coming Soon</a></li>
+                                <li><a href="/teams">Team</a></li>
                             </ul>
                         </li>
                         <li class="dropdown"><a href="/services">Services</a>
                             <ul>
                                 <li><a href="/services">All Services</a></li>
-                                <li><a href="/services-details">Civil Enginerring</a></li>
-                                <li><a href="/services-details">Oil & Gas Engineering</a></li>
-                                <li><a href="/services-details">Chemical Engineering</a></li>
-                                <li><a href="/services-details">Agriculture Engineering</a></li>
-                                <li><a href="/services-details">Mechanical Engineering</a></li>
-                                <li><a href="/services-details">Service Detail</a></li>
+                                <li><a href="/web-dev">Web Development</a></li>
+                                <li><a href="/ios-dev">Iphone App Development</a></li>
+                                <li><a href="/android-dev">Android App Development</a></li>
+                                <li><a href="/ui-ux">UI/UX Design And Prototyping</a></li>
+                                <li><a href="/seo-digital-marketing">Degital Marketing & SEO</a></li>
+                                
                             </ul>
                         </li>
-                        <li class="dropdown"><a href="/projects">Projects</a>
+                        <li class="dropdown"><a href="/projects-details">Products</a>
                             <ul>
-                                <li><a href="/projects">Project with Filters</a></li>
-                                <li><a href="/projects2">Project Slide Show</a></li>
-                                <li><a href="/project-detail">Project Detail</a></li>
+                                <li><a href="#">Resulta-School Management System</a></li>
+                                <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
+                                <li><a href="/projects-details">Projects Details</a></li>
                             </ul>
                         </li>
                         
@@ -60,7 +59,7 @@
                     <!--Info Box-->
                     <div class="info-box">
                         <div class="icon-box"><span class="fa fa-home"></span></div>
-                        <p>13005 Greenville Avenue <br>United Kingdom, TX 70240</p>
+                        <p>Independence Avenue<br> Abuja,  CBD,</p>
                     </div>
 
                     <!--Info Box-->
@@ -73,8 +72,10 @@
                     <!--Info Box-->
                     <div class="info-box">
                         <div class="icon-box"><span class="far fa-envelope"></span></div>
-                        <p><a href="tel:(888)123456789">(888) 123 456 789</a></p>
-                        <p><a href="mailto:support@example.com">support@example.com</a></p>
+                        <p><a href="tel:+234-909-426-7360">+234 909 426 7360</a></p>
+                        <p><a href="tel:+234-902-208-1910">+234 902 208 1910</a></p>
+                        <p><a href="mailto:info@thebooleantech.com.ng">info@thebooleantech.com.ng</a></p>
+                        <p><a href="mailto:thebooleantech@gmail.com">thebooleantech@gmail.com</a></p>
                     </div>
                 </div>
             </div>
@@ -90,7 +91,7 @@
             <div class="outer-container">
                 <div class="main-box clearfix">
                     <div class="logo-box">
-                        <div class="logo"><a href="index.html"><img src="/assets/images/logo.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="/"><img src="/assets/images/logo.png" alt="" title=""></a></div>
                     </div>
 
                     
@@ -136,7 +137,8 @@
                                 <div class="auto-container">
                                     <div class="inner">
                                         <h2 class="mask-loader">Welcome</h2>
-                                        <div class="text mask-loader">Our Company has consistently embraced innovation to provide a <br>superior level of excellence for our customers. </div>
+                                        <div class="text mask-loader">
+                                            We are a boutique consultation firm that specialize in building great customer experiences through mobile, web and conversational software. </div>
                                         <div class="btn-box mask-loader"><a href="about-us.html" class="theme-btn btn-style-two"><span class="btn-title">About Us</span></a></div>
                                     </div>
                                 </div>
@@ -152,8 +154,8 @@
                         <div class="content-box">
                             <div class="content">
                                 <div class="auto-container">
-                                    <h3>Taking The Best <br> <span class="theme_color">Technical Solutions</span></h3>
-                                    <div class="text">Our Company has consistently embraced innovation to provide a <br>superior level of excellence for our customers. </div>
+                                    <h3>Software <br> <span class="theme_color">Development</span></h3>
+                                    <div class="text">We are a boutique consultation firm that specialize in <br>building great customer experiences through mobile, web <br>and conversational software. </div>
                                     <div class="btn-box"><a href="about-us.html" class="theme-btn btn-style-two"><span class="btn-title">Our Services</span></a></div>
                                 </div>
                             </div>
@@ -168,8 +170,8 @@
                         <div class="content-box">
                             <div class="content">
                                 <div class="auto-container">
-                                    <h3>Provide <span class="theme_color">Best Solution</span> <br>for all Industries</h3>
-                                    <div class="text">Our Company has consistently embraced innovation to provide a <br>superior level of excellence for our customers. </div>
+                                    <h3>Reimagine Your <span class="theme_color">Business</span> </h3>
+                                    <div class="text">We build custom software application <br>for a transforming world. </div>
                                     <div class="btn-box"><a href="services.html" class="theme-btn btn-style-two"><span class="btn-title">Our Services</span></a></div>
                                 </div>
                             </div>
@@ -184,8 +186,8 @@
                         <div class="content-box">
                             <div class="content">
                                 <div class="auto-container">
-                                    <h3>Leading Solution for <br>all <span class="theme_color">Factory Business</span></h3>
-                                    <div class="text">Our Company has consistently embraced innovation to provide a <br>superior level of excellence for our customers. </div>
+                                    <h3>Whatever We Start<br> We Think Through To  <span class="theme_color">The End</span></h3>
+                                    <div class="text">We do make a plan for designing and developing mobile apps and web development solutions <br> that help businesses to solve organizational challenges, improve sales, and customer engagement. <br> From project ideation to release in the market, we deliver our clients with the best software <br> development service for their business.</div>
                                     <div class="btn-box"><a href="about-us.html" class="theme-btn btn-style-two"><span class="btn-title">Our Projects</span></a></div>
                                 </div>
                             </div>
@@ -200,8 +202,8 @@
                         <div class="content-box">
                             <div class="content">
                                 <div class="auto-container">
-                                    <h3>Provide <span class="theme_color">Best Solution</span> <br>for all Industries</h3>
-                                    <div class="text">Our Company has consistently embraced innovation to provide a <br>superior level of excellence for our customers. </div>
+                                    <h3>Everybody Gets Exactly <br><span class="theme_color">What They Need</span></h3>
+                                    <div class="text">We provide end-to-end software development <br> services without compromising standard processes <br> and quality assurance. We have served multiple <br> companies globally transforming concepts into <br> genuine products. </div>
                                     <div class="btn-box"><a href="team.html" class="theme-btn btn-style-two"><span class="btn-title">Our Team</span></a></div>
                                 </div>
                             </div>
@@ -216,8 +218,8 @@
                         <div class="content-box">
                             <div class="content">
                                 <div class="auto-container">
-                                    <h3>Leading Solution for <br>all <span class="theme_color">Factory Business</span></h3>
-                                    <div class="text">Our Company has consistently embraced innovation to provide a <br>superior level of excellence for our customers. </div>
+                                    <h3>Getting Things<span class="theme_color"> Done</span></h3>
+                                    <div class="text">Getting Things Done is the mantra we live by. Our ingenious team <br> has a “can-do” attitude and believes in Getting Things Done. This <br> mantra makes sense when we deliver our client’s project on time. </div>
                                     <div class="btn-box"><a href="contact.html" class="theme-btn btn-style-two"><span class="btn-title">Contact Us</span></a></div>
                                 </div>
                             </div>

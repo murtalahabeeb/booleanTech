@@ -49,13 +49,13 @@
                                 <li><a href="/home-banner">Home Banner</a></li>
                             </ul>
                         </li>
-                        <li class="current dropdown"><a href="/about-us">About</a>
+                        <li class="dropdown"><a href="/about-us">About</a>
                             <ul>
                                 <li><a href="/about-us">About Us</a></li>
-                                <li><a href="about-me.html">About Me</a></li>
+                                <li><a href="/about-me">About Me</a></li>
                                 <li><a href="/faqs">FAQ's</a></li>
-                                <li><a href="/team">Team</a></li>
-                                <li><a href="coming-soon.html">Coming Soon</a></li>
+                                <li><a href="/teams">Team</a></li>
+                               
                             </ul>
                         </li>
                         <li class="dropdown"><a href="/services">Services</a>
@@ -69,7 +69,7 @@
                                 <li><a href="/services-details">Service Detail</a></li>
                             </ul>
                         </li>
-                        <li class="dropdown"><a href="/projects">Projects</a>
+                        <li class="current dropdown"><a href="/projects">Projects</a>
                             <ul>
                                 <li><a href="/projects">Project with Filters</a></li>
                                 <li><a href="/projects2">Project Slide Show</a></li>
@@ -118,7 +118,7 @@
             <div class="outer-container">
                 <div class="main-box clearfix">
                     <div class="logo-box">
-                        <div class="logo"><a href="index.html"><img src="/assets/images/logo.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="/"><img src="/assets/images/logo.png" alt="" title=""></a></div>
                     </div>
 
                     <div class="nav-outer">
@@ -133,13 +133,13 @@
                                             <li><a href="/home-banner">Home Banner</a></li>
                                         </ul>
                                     </li>
-                                    <li class="current dropdown"><a href="/about-us">About</a>
+                                    <li class="dropdown"><a href="/about-us">About</a>
                                         <ul>
                                             <li><a href="/about-us">About Us</a></li>
-                                            <li><a href="about-me.html">About Me</a></li>
+                                            <li><a href="/about-me">About Me</a></li>
                                             <li><a href="/faqs">FAQ's</a></li>
-                                            <li><a href="/team">Team</a></li>
-                                            <li><a href="coming-soon.html">Coming Soon</a></li>
+                                            <li><a href="/teams">Team</a></li>
+                                            
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="/services">Services</a>
@@ -153,7 +153,7 @@
                                             <li><a href="/services-details">Service Detail</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="projects.html">Projects</a>
+                                    <li class="current dropdown"><a href="projects.html">Projects</a>
                                         <ul>
                                             <li><a href="/projects">Project with Filters</a></li>
                                             <li><a href="/projects2">Project Slide Show</a></li>
@@ -203,7 +203,7 @@
             <div class="auto-container">
                 <h2>Projects</h2>
                 <ul class="page-breadcrumb">
-                    <li><a href="index.html">home</a></li>
+                    <li><a href="/">home</a></li>
                     <li>Projects</li>
                 </ul>
             </div>
@@ -448,7 +448,7 @@
                                 <div class="footer-column col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                     <div class="footer-widget about-widget">
                                         <div class="logo">
-                                            <a href="index.html"><img src="/assets/images/logo.png" alt="" /></a>
+                                            <a href="/"><img src="/assets/images/logo.png" alt="" /></a>
                                         </div>
                                         <div class="text">
                                             <p>We have very good strength in innovative technology and tools with over 35 years of experience. We makes long-term investments goal in global companies in different sectors, mainly in Europe and other countries.</p>           
@@ -553,7 +553,7 @@
                         </div>
                         
                         <div class="copyright-text">
-                            <p>© Copyright 2019 All Rights Reserved by <a href="index.html">Bold_Touch</a></p>
+                            <p>© Copyright 2019 All Rights Reserved by <a href="/">Bold_Touch</a></p>
                         </div>
                     </div>
                 </div>

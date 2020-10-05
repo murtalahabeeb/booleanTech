@@ -27,28 +27,27 @@
                         <li class="current dropdown"><a href="/about-us">About</a>
                             <ul>
                                 <li><a href="/about-us">About Us</a></li>
-                                <li><a href="about-me.html">About Me</a></li>
+                                <li><a href="/about-me">About Me</a></li>
                                 <li><a href="/faqs">FAQ's</a></li>
-                                <li><a href="/team">Team</a></li>
-                                <li><a href="coming-soon.html">Coming Soon</a></li>
+                                <li><a href="/teams">Team</a></li>
+                                
                             </ul>
                         </li>
                         <li class="dropdown"><a href="/services">Services</a>
                             <ul>
                                 <li><a href="/services">All Services</a></li>
-                                <li><a href="/services-details">Civil Enginerring</a></li>
-                                <li><a href="/services-details">Oil & Gas Engineering</a></li>
-                                <li><a href="/services-details">Chemical Engineering</a></li>
-                                <li><a href="/services-details">Agriculture Engineering</a></li>
-                                <li><a href="/services-details">Mechanical Engineering</a></li>
-                                <li><a href="/services-details">Service Detail</a></li>
+                                <li><a href="/web-dev">Web Development</a></li>
+                                <li><a href="/ios-dev">Iphone App Development</a></li>
+                                <li><a href="/android-dev">Android App Development</a></li>
+                                <li><a href="/ui-ux">UI/UX Design And Prototyping</a></li>
+                                <li><a href="/seo-digital-marketing">Degital Marketing & SEO</a></li>
                             </ul>
                         </li>
-                        <li class="dropdown"><a href="/projects">Projects</a>
+                        <li class="dropdown"><a href="/projects-details">Products</a>
                             <ul>
-                                <li><a href="/projects">Project with Filters</a></li>
-                                <li><a href="/projects2">Project Slide Show</a></li>
-                                <li><a href="/project-detail">Project Detail</a></li>
+                                <li><a href="#">Resulta-School Management System</a></li>
+                                <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
+                                <li><a href="/projects-details">Projects Details</a></li>
                             </ul>
                         </li>
                         
@@ -60,7 +59,7 @@
                     <!--Info Box-->
                     <div class="info-box">
                         <div class="icon-box"><span class="fa fa-home"></span></div>
-                        <p>13005 Greenville Avenue <br>United Kingdom, TX 70240</p>
+                        <p>Independence Avenue<br> Abuja,  CBD,</p>
                     </div>
 
                     <!--Info Box-->
@@ -73,8 +72,10 @@
                     <!--Info Box-->
                     <div class="info-box">
                         <div class="icon-box"><span class="far fa-envelope"></span></div>
-                        <p><a href="tel:(888)123456789">(888) 123 456 789</a></p>
-                        <p><a href="mailto:support@example.com">support@example.com</a></p>
+                        <p><a href="tel:+234-909-426-7360">+234 909 426 7360</a></p>
+                        <p><a href="tel:+234-902-208-1910">+234 902 208 1910</a></p>
+                        <p><a href="mailto:info@thebooleantech.com.ng">info@thebooleantech.com.ng</a></p>
+                        <p><a href="mailto:thebooleantech@gmail.com">thebooleantech@gmail.com</a></p>
                     </div>
                 </div>
             </div>
@@ -93,7 +94,7 @@
             <div class="outer-container">
                 <div class="main-box clearfix">
                     <div class="logo-box">
-                        <div class="logo"><a href="index.html"><img src="/assets/images/logo.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="/"><img src="/assets/images/logo.png" alt="" title=""></a></div>
                     </div>
 
                     <div class="nav-outer">
@@ -113,26 +114,25 @@
                                             <li><a href="/about-us">About Us</a></li>
                                             <li><a href="/about-me">About Me</a></li>
                                             <li><a href="/faqs">FAQ's</a></li>
-                                            <li><a href="/team">Team</a></li>
-                                            <li><a href="coming-soon.html">Coming Soon</a></li>
+                                            <li><a href="/teams">Team</a></li>
+                                        
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="/services">Services</a>
                                         <ul>
-                                            <li><a href="/services">All Services</a></li>
-                                            <li><a href="/services-details">Civil Enginerring</a></li>
-                                            <li><a href="/services-details">Oil & Gas Engineering</a></li>
-                                            <li><a href="/services-details">Chemical Engineering</a></li>
-                                            <li><a href="/services-details">Agriculture Engineering</a></li>
-                                            <li><a href="/services-details">Mechanical Engineering</a></li>
-                                            <li><a href="/services-details">Service Detail</a></li>
+                                        <li><a href="/services">All Services</a></li>
+                                        <li><a href="/web-dev">Web Development</a></li>
+                                        <li><a href="/ios-dev">Iphone App Development</a></li>
+                                        <li><a href="/android-dev">Android App Development</a></li>
+                                        <li><a href="/ui-ux">UI/UX Design And Prototyping</a></li>
+                                        <li><a href="/seo-digital-marketing">Degital Marketing & SEO</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="projects.html">Projects</a>
+                                    <li class="dropdown"><a href="/projects-details">Products</a>
                                         <ul>
-                                            <li><a href="/projects">Project with Filters</a></li>
-                                            <li><a href="/projects2">Project Slide Show</a></li>
-                                            <li><a href="/projects-detail">Project Detail</a></li>
+                                            <li><a href="#">Resulta-School Management System</a></li>
+                                            <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
+                                            <li><a href="/projects-details">Projects Details</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="/contact-us">Contact</a></li>
@@ -177,7 +177,7 @@
             <div class="auto-container">
                 <h2>About us</h2>
                 <ul class="page-breadcrumb">
-                    <li><a href="index.html">home</a></li>
+                    <li><a href="/">home</a></li>
                     <li>About us</li>
                 </ul>
             </div>
@@ -189,8 +189,8 @@
             <div class="auto-container">
                 <div class="sec-title text-center">
                     <span class="float-text">Welcome</span>
-                    <h2>Welcome to <span>SINAEA</span></h2>
-                    <div class="text">The Generate Industry Company is a business unit with in the industry Division of Fletcher <br> Manufacturer Limited, publicly listed on the England and Australian stock exchanges, with 20,000<br> employes and market capitalisation of $9 billion.</div>
+                    <h2>Welcome to <span>BooleanTech</span></h2>
+                    <div class="text">The Boolean Tech is a one-stop IT solution provider web and mobile app development company in Abuja, NG. Having hands-on experience in delivering and deploying cutting-edge web and mobile applications, we create customer-centric product design and deliver ceaseless experience that leaves the user Wowwwww!.</div>
                 </div>
 
                 <div class="row">
@@ -199,7 +199,7 @@
                             <figure class="image"><img src="/assets/images/resource/our-mission.jpg" alt=""></figure>
                             <div class="lower-content">
                                 <h3>Our Mission</h3>
-                                <div class="text">We will provide you the best work which you dreamt for! It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.there are many variations of passages of Ipsum available,</div>                            
+                                <div class="text">It is through our passion and commitment to our clients that we develop software to face real-world challenges. It is our love for and dedication to what we do that enables us to become a better company for ourselves, for our clients, our community and the world.</div>                            
                             </div>
                         </div>
                     </div>
@@ -208,8 +208,8 @@
                         <div class="inner-column">
                             <figure class="image"><img src="/assets/images/resource/our-vision.jpg" alt=""></figure>
                             <div class="lower-content">
-                                <h3>Our Vision</h3>
-                                <div class="text">We will provide you the best work which you dreamt for! It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.there are many variations of passages of Ipsum available,</div>                            
+                                <h3>Our Approach</h3>
+                                <div class="text">Our skilled strategists, designers, and developers are here to take your project from ideation to publication. Being a leading software development company in Nigeria, our team is committed to developing mobile app and web-based software solutions that keep your users hooked straight into it.</div>                            
                             </div>
                         </div>
                     </div>
@@ -223,23 +223,23 @@
             <div class="auto-container">
                 <div class="sec-title light">
                     <span class="float-text">About</span>
-                    <h2>About <span>Us</span></h2>
+                    <h2>Who Are <span>We?</span></h2>
                 </div>
                 <div class="row clearfix">
                     <!-- Content Column -->
                     <div class="content-column col-lg-6 col-md-12 col-sm-12">
                         <div class="inner-column">
-                            <div class="about-years"><span class="theme_color">40</span><h3> Years experience in construction</h3></div>
+                            <div class="about-years"><span class="theme_color">40</span><h3> Years experience in software development</h3></div>
                             <div class="text-box">
-                                <p>We have facility to produce advance work various industrial applications based on specially developed technol-ogy. We are also ready to developement by according to users changing needs. Infrastructure related installation projects. General repair & industrial and machinery.</p>
+                                <p>Our team of passionate developers and designers nurtures your dreamed ideas into reality by solving the real-world problems for the business and their customers. Having released more than 75 apps of the respectable brands under the belt of our well-versed team, we leave no stone unturned when it comes to security and transparency.</p>
                             </div>
 
                             <!-- Feature Block -->
                             <div class="feature-block">
                                 <div class="inner-box">
                                     <div class="icon-box"><span class="icon flaticon-engineer-1"></span></div>
-                                    <h4><a href="service-detail.html">Markets and Product</a></h4>
-                                    <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd idunt labore et dolore magna aliqua enim ad minim</div>
+                                    <h4><a href="service-detail.html">Integrity</a></h4>
+                                    <div class="text">We do care about our clients and their requirements, so we are committed to keep our words and deliver what we say. We maintain trust, transparency, and honesty throughout the project.</div>
                                 </div>
                             </div>
 
@@ -247,8 +247,8 @@
                             <div class="feature-block">
                                 <div class="inner-box">
                                     <div class="icon-box"><span class="icon flaticon-bar-chart"></span></div>
-                                    <h4><a href="service-detail.html">Solutions and Satisfaction Value</a></h4>
-                                    <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd idunt labore et dolore magna aliqua enim ad minim</div>
+                                    <h4><a href="service-detail.html">Quality at Work</a></h4>
+                                    <div class="text">We select very few clients. Reason? We don’t want to compromise with the quality we deliver. But, don’t believe in our words. If you have a specific requirement, try and test us.</div>
                                 </div>
                             </div>
 
@@ -256,8 +256,8 @@
                             <div class="feature-block">
                                 <div class="inner-box">
                                     <div class="icon-box"><span class="icon flaticon-rocket-ship"></span></div>
-                                    <h4><a href="service-detail.html">Technology-savvy</a></h4>
-                                    <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd idunt labore et dolore magna aliqua enim ad minim</div>
+                                    <h4><a href="service-detail.html">Accountability</a></h4>
+                                    <div class="text">We don’t believe in just finishing the job, we take it as our own work and nurture it with the utmost care to successfully deliver it. We hold ourselves accountable for the results.</div>
                                 </div>
                             </div>
 
@@ -304,7 +304,8 @@
                 <div class="content">
                     <span class="title">Let's work together</span>
                     <h2>Provide You The <span>Highest Quality</span><br> Work That Meets Your Expectation.</h2>
-                    <div class="number"><a href="tel:(+291)-456-789-1234">(+291)-456-789-1234</a></div>
+                    <div class="number"><a href="tel:(+291)-456-789-1234">+234 909 426 7360</a></div>
+                    <div class="number"><a href="tel:(+291)-456-789-1234">+234 902 208 1910</a></div>
                     <a href="contact.html" class="theme-btn btn-style-one"><span class="btn-title">Get A Quote</span></a>
                 </div>
             </div>
@@ -373,12 +374,12 @@
                         <!--Progress Bars-->
                         <div class="inner-column">
                             <h4>Check Our Skills</h4>
-                            <div class="text">Lorem ipsum dolor amet consectur adipicing elit eiusmod tempor incididunt ut labore dolore magna aliqua.enim minim veniam quis nostrud exercitation ullamco laboris. aliquip commodo consequat duis aute irure dolor reprehen.</div>
+                            <div class="text">What we develop, we develop as a unique response to the requirements of our customers.</div>
                             <div class="progress-bars">
                                 <!--Skill Item-->
                                 <div class="bar-item">
                                     <div class="skill-header clearfix">
-                                        <div class="skill-title">Architecher</div>
+                                        <div class="skill-title">ANDROID & iOS APP DEVELOPMENT</div>
                                     </div>
                                     <div class="skill-bar">
                                         <div class="bar-inner"><div class="bar progress-line" data-width="86"><div class="skill-percentage"><div class="count-box"><span class="count-text" data-speed="2000" data-stop="86">0</span></div></div></div></div>
@@ -388,7 +389,7 @@
                                 <!--Skill Item-->
                                 <div class="bar-item">
                                     <div class="skill-header clearfix">
-                                        <div class="skill-title">Construction</div>
+                                        <div class="skill-title">CUSTOM WEB & WORDPRESS DEVELOPMENT</div>
                                     </div>
                                     <div class="skill-bar">
                                         <div class="bar-inner"><div class="bar progress-line" data-width="73"><div class="skill-percentage"><div class="count-box"><span class="count-text" data-speed="2000" data-stop="73">0</span></div></div></div></div>
@@ -398,7 +399,7 @@
                                 <!--Skill Item-->
                                 <div class="bar-item">
                                     <div class="skill-header clearfix">
-                                        <div class="skill-title">Building</div>
+                                        <div class="skill-title">REACT NATIVE DEVELOPMENT</div>
                                     </div>
                                     <div class="skill-bar">
                                         <div class="bar-inner"><div class="bar progress-line" data-width="95"><div class="skill-percentage"><div class="count-box"><span class="count-text" data-speed="2000" data-stop="95">0</span></div></div></div></div>
@@ -408,7 +409,7 @@
                                 <!--Skill Item-->
                                 <div class="bar-item">
                                     <div class="skill-header clearfix">
-                                        <div class="skill-title">Interior</div>
+                                        <div class="skill-title">AI & MACHINE LEARNING</div>
                                     </div>
                                     <div class="skill-bar">
                                         <div class="bar-inner"><div class="bar progress-line" data-width="65"><div class="skill-percentage"><div class="count-box"><span class="count-text" data-speed="2000" data-stop="65">0</span></div></div></div></div>
@@ -418,7 +419,7 @@
                                 <!--Skill Item-->
                                 <div class="bar-item">
                                     <div class="skill-header clearfix">
-                                        <div class="skill-title">Commercial</div>
+                                        <div class="skill-title">DATA ANALYTICS & AUTOMATION</div>
                                     </div>
                                     <div class="skill-bar">
                                         <div class="bar-inner"><div class="bar progress-line" data-width="80"><div class="skill-percentage"><div class="count-box"><span class="count-text" data-speed="2000" data-stop="80">0</span></div></div></div></div>
@@ -436,8 +437,8 @@
         <section class="video-section" style="background-image: url(/assets/images/background/2.jpg);" data-stellar-background-ratio="0.5">
             <div class="auto-container">
                 <div class="content-box">
-                    <div class="text">WE’RE A LEADING INDUSTRY COMPANY</div>
-                    <h2>We Are Always at The <br>Forefront of The Industrial Market</h2>
+                    <div class="text">WE’RE A LEADING TECH COMPANY</div>
+                    <h2>We Are Always at The <br>Forefront of The Tech Market</h2>
                     <a href="https://www.youtube.com/watch?v=Fvae8nxzVz4" class="play-now" data-fancybox="gallery" data-caption=""><i class="icon flaticon-play-button-3" aria-hidden="true"></i><span class="ripple"></span></a>
                 </div>
             </div>
@@ -530,10 +531,10 @@
                                 <div class="footer-column col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                     <div class="footer-widget about-widget">
                                         <div class="logo">
-                                            <a href="index.html"><img src="/assets/images/logo.png" alt="" /></a>
+                                            <a href="/"><img src="/assets/images/logo.png" alt="" /></a>
                                         </div>
                                         <div class="text">
-                                            <p>We have very good strength in innovative technology and tools with over 35 years of experience. We makes long-term investments goal in global companies in different sectors, mainly in Europe and other countries.</p>           
+                                            <p>We are a boutique consultation firm that specialize in building great customer experiences through mobile, web and conversational software..</p>           
                                         </div>
                                         <ul class="social-icon-two">
                                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -575,12 +576,11 @@
                                     <div class="footer-widget useful-links">
                                         <h2 class="widget-title">Useful Links</h2>
                                         <ul class="user-links">
-                                            <li><a href="index-2.html">Home</a></li>
-                                            <li><a href="about-us.html">About Us</a></li>
-                                            <li><a href="services.html">Services</a></li>
-                                            <li><a href="projects.html">Projects</a></li>
-                                            <li><a href="blog.html">Blogs</a></li>
-                                            <li><a href="contact.html">Contact Us</a></li>
+                                            <li><a href="/">Home</a></li>
+                                            <li><a href="/about-us">About Us</a></li>
+                                            <li><a href="/services">Services</a></li>
+                                            <li><a href="/projects">Projects</a></li>
+                                            <li><a href="/contact-us">Contact Us</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -600,17 +600,25 @@
 
                                                 <li>
                                                     <span class="icon flaticon-call-1"></span>
-                                                    <div class="text"><a href="tel:+1-345-5678-77">+1-345-5678-77</a></div>
+                                                    <div class="text"><a href="tel:+234-909-426-7360">+234 909 426 7360</a></div>
+                                                </li>
+                                                <li>
+                                                    <span class="icon flaticon-call-1"></span>
+                                                    <div class="text"><a href="tel:+234-902-208-1910">+234 902 208 1910</a></div>
                                                 </li>
 
                                                 <li>
                                                     <span class="icon flaticon-paper-plane"></span>
-                                                    <div class="text"><a href="mailto:support@example.com">support@example.com</a></div>
+                                                    <div class="text"><a href="mailto:info@thebooleantech.com.ng">info@thebooleantech.com.ng</a></div>
+                                                </li>
+                                                <li>
+                                                    <span class="icon flaticon-paper-plane"></span>
+                                                    <div class="text"><a href="mailto:thebooleantech@gmail.com">thebooleantech@gmail.com</a></div>
                                                 </li>
 
                                                 <li>
                                                     <span class="icon flaticon-worldwide"></span>
-                                                    <div class="text">13005 Greenville Avenue<br> California, TX 70240</div>
+                                                    <div class="text">Independence Avenue, CBD, Abuja.</div>
                                                 </li>
                                             </ul>
                                         </div>
@@ -635,7 +643,7 @@
                         </div>
                         
                         <div class="copyright-text">
-                            <p>© Copyright 2019 All Rights Reserved by <a href="index.html">Bold_Touch</a></p>
+                            <p>© Copyright 2020 -<a href="/">The Boolean Tech</a> All Rights Reserved. </p>
                         </div>
                     </div>
                 </div>

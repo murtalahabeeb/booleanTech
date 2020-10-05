@@ -26,9 +26,9 @@
                         <li class="current dropdown"><a href="/about-us">About</a>
                             <ul>
                                 <li><a href="/about-us">About Us</a></li>
-                                <li><a href="about-me.html">About Me</a></li>
+                                <li><a href="/about-me">About Me</a></li>
                                 <li><a href="/faqs">FAQ's</a></li>
-                                <li><a href="/team">Team</a></li>
+                                <li><a href="/teams">Team</a></li>
                                 <li><a href="coming-soon.html">Coming Soon</a></li>
                             </ul>
                         </li>
@@ -59,7 +59,7 @@
                     <!--Info Box-->
                     <div class="info-box">
                         <div class="icon-box"><span class="fa fa-home"></span></div>
-                        <p>13005 Greenville Avenue <br>United Kingdom, TX 70240</p>
+                        <p>Independence Avenue<br> Abuja,  CBD,</p>
                     </div>
 
                     <!--Info Box-->
@@ -72,8 +72,10 @@
                     <!--Info Box-->
                     <div class="info-box">
                         <div class="icon-box"><span class="far fa-envelope"></span></div>
-                        <p><a href="tel:(888)123456789">(888) 123 456 789</a></p>
-                        <p><a href="mailto:support@example.com">support@example.com</a></p>
+                        <p><a href="tel:+234-909-426-7360">+234 909 426 7360</a></p>
+                        <p><a href="tel:+234-902-208-1910">+234 902 208 1910</a></p>
+                        <p><a href="mailto:info@thebooleantech.com.ng">info@thebooleantech.com.ng</a></p>
+                        <p><a href="mailto:thebooleantech@gmail.com">thebooleantech@gmail.com</a></p>
                     </div>
                 </div>
             </div>
@@ -91,7 +93,7 @@
             <div class="outer-container">
                 <div class="main-box clearfix">
                     <div class="logo-box">
-                        <div class="logo"><a href="index.html"><img src="/assets/images/logo.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="/"><img src="/assets/images/logo.png" alt="" title=""></a></div>
                     </div>
 
                     <div class="nav-outer">
@@ -99,20 +101,20 @@
                         <nav class="main-menu navbar-expand-md navbar-light">
                             <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
-                                    <li class=" dropdown"><a href="/">Home</a>
+                                    <li class="current dropdown"><a href="/">Home</a>
                                         <ul>
                                             <li><a href="/">Home Showcase</a></li>
                                             <li><a href="/carossel">Home Carousel</a></li>
                                             <li><a href="/home-banner">Home Banner</a></li>
                                         </ul>
                                     </li>
-                                    <li class="current dropdown"><a href="/about-us">About</a>
+                                    <li class="dropdown"><a href="/about-us">About</a>
                                         <ul>
                                             <li><a href="/about-us">About Us</a></li>
-                                            <li><a href="about-me.html">About Me</a></li>
+                                            <li><a href="/about-me">About Me</a></li>
                                             <li><a href="/faqs">FAQ's</a></li>
-                                            <li><a href="/team">Team</a></li>
-                                            <li><a href="coming-soon.html">Coming Soon</a></li>
+                                            <li><a href="/teams">Team</a></li>
+                                            
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="/services">Services</a>
@@ -130,7 +132,7 @@
                                         <ul>
                                             <li><a href="/projects">Project with Filters</a></li>
                                             <li><a href="/projects2">Project Slide Show</a></li>
-                                            <li><a href="/projects-detail">Project Detail</a></li>
+                                            <li><a href="/projects-details">Project Detail</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="/contact-us">Contact</a></li>
@@ -702,7 +704,7 @@
                         <!-- Team Block -->
                         <div class="team-block">
                             <div class="inner-box">
-                                <figure class="thumb"><img src="/assets/images/resource/team-1.jpg" alt=""></figure>
+                                <figure class="thumb"><img src="/assets/images/resource/teams-1.jpg" alt=""></figure>
                                 <div class="info-box">
                                     <h5 class="name">Dagny Brucks</h5>
                                     <span class="designation">Camical officer</span>
@@ -730,7 +732,7 @@
                         <!-- Team Block -->
                         <div class="team-block">
                             <div class="inner-box">
-                                <figure class="thumb"><img src="/assets/images/resource/team-2.jpg" alt=""></figure>
+                                <figure class="thumb"><img src="/assets/images/resource/teams-2.jpg" alt=""></figure>
                                 <div class="info-box">
                                     <h5 class="name">Cora Volek</h5>
                                     <span class="designation">Camical officer</span>
@@ -758,7 +760,7 @@
                         <!-- Team Block -->
                         <div class="team-block">
                             <div class="inner-box">
-                                <figure class="thumb"><img src="/assets/images/resource/team-3.jpg" alt=""></figure>
+                                <figure class="thumb"><img src="/assets/images/resource/teams-3.jpg" alt=""></figure>
                                 <div class="info-box">
                                     <h5 class="name">Rolande Carioscia</h5>
                                     <span class="designation">Camical officer</span>
@@ -786,7 +788,7 @@
                         <!-- Team Block -->
                         <div class="team-block">
                             <div class="inner-box">
-                                <figure class="thumb"><img src="/assets/images/resource/team-4.jpg" alt=""></figure>
+                                <figure class="thumb"><img src="/assets/images/resource/teams-4.jpg" alt=""></figure>
                                 <div class="info-box">
                                     <h5 class="name">Joan Odonovan</h5>
                                     <span class="designation">Camical officer</span>
@@ -1223,7 +1225,7 @@
                                 <div class="footer-column col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                     <div class="footer-widget about-widget">
                                         <div class="logo">
-                                            <a href="index.html"><img src="/assets/images/logo.png" alt="" /></a>
+                                            <a href="/"><img src="/assets/images/logo.png" alt="" /></a>
                                         </div>
                                         <div class="text">
                                             <p>We have very good strength in innovative technology and tools with over 35 years of experience. We makes long-term investments goal in global companies in different sectors, mainly in Europe and other countries.</p>           
@@ -1328,7 +1330,7 @@
                         </div>
                         
                         <div class="copyright-text">
-                            <p>© Copyright 2019 All Rights Reserved by <a href="index.html">Bold_Touch</a></p>
+                            <p>© Copyright 2019 All Rights Reserved by <a href="/">Bold_Touch</a></p>
                         </div>
                     </div>
                 </div>

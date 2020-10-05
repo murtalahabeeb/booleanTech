@@ -1,6 +1,31 @@
-@extends('layout.layout')
+<!DOCTYPE html>
+<html lang="en">
 
-@section('content')
+<!-- Mirrored from ary-themes.com/html/sinaea/services-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Sep 2020 15:39:47 GMT -->
+<head>
+<meta charset="utf-8">
+<title>SINAEA - Industry and Factory HTML Template | Service Detail</title>
+<!-- Stylesheets -->
+<link href="/assets/css/bootstrap.css" rel="stylesheet">
+<link href="/assets/css/style.css" rel="stylesheet">
+<link href="/assets/css/responsive.css" rel="stylesheet">
+<!--Color Switcher Mockup-->
+<link href="/assets/css/color-switcher-design.css" rel="stylesheet">
+
+<!--Color Themes-->
+<link id="theme-color-file" href="/assets/css/color-themes/default-theme.css" rel="stylesheet">
+
+<link rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-icon">
+<link rel="icon" href="/assets/images/favicon.png" type="image/x-icon">
+
+<!-- Responsive -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="/assets/js/respond.js"></script><![endif]-->
+</head>
+
+<body>
 
 <div class="page-wrapper">
     <!-- Preloader -->
@@ -27,40 +52,39 @@
                         <li class="current dropdown"><a href="/about-us">About</a>
                             <ul>
                                 <li><a href="/about-us">About Us</a></li>
-                                <li><a href="about-me.html">About Me</a></li>
+                                <li><a href="/about-me">About Me</a></li>
                                 <li><a href="/faqs">FAQ's</a></li>
-                                <li><a href="/team">Team</a></li>
-                                <li><a href="coming-soon.html">Coming Soon</a></li>
+                                <li><a href="/teams">Team</a></li>
+
                             </ul>
                         </li>
                         <li class="dropdown"><a href="/services">Services</a>
                             <ul>
                                 <li><a href="/services">All Services</a></li>
-                                <li><a href="/services-details">Civil Enginerring</a></li>
-                                <li><a href="/services-details">Oil & Gas Engineering</a></li>
-                                <li><a href="/services-details">Chemical Engineering</a></li>
-                                <li><a href="/services-details">Agriculture Engineering</a></li>
-                                <li><a href="/services-details">Mechanical Engineering</a></li>
-                                <li><a href="/services-details">Service Detail</a></li>
+                                <li><a href="/web-dev">Web Development</a></li>
+                                <li><a href="/ios-dev">Iphone App Development</a></li>
+                                <li><a href="/android-dev">Android App Development</a></li>
+                                <li><a href="/ui-ux">UI/UX Design And Prototyping</a></li>
+                                <li><a href="/seo-digital-marketing">Degital Marketing & SEO</a></li>
                             </ul>
                         </li>
-                        <li class="dropdown"><a href="/projects">Projects</a>
+                        <li class="dropdown"><a href="/projects-details">Products</a>
                             <ul>
-                                <li><a href="/projects">Project with Filters</a></li>
-                                <li><a href="/projects2">Project Slide Show</a></li>
-                                <li><a href="/project-detail">Project Detail</a></li>
+                                <li><a href="#">Resulta-School Management System</a></li>
+                                <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
+                                <li><a href="/projects-details">Projects Details</a></li>
                             </ul>
                         </li>
                         
                         <li><a href="/contact-us">Contact</a></li>
                     </ul> 
                 </nav><!-- /.Side-menu -->
-
+                
                 <div class="contact-info-box">
                     <!--Info Box-->
                     <div class="info-box">
                         <div class="icon-box"><span class="fa fa-home"></span></div>
-                        <p>13005 Greenville Avenue <br>United Kingdom, TX 70240</p>
+                        <p>Independence Avenue<br> Abuja,  CBD,</p>
                     </div>
 
                     <!--Info Box-->
@@ -73,8 +97,10 @@
                     <!--Info Box-->
                     <div class="info-box">
                         <div class="icon-box"><span class="far fa-envelope"></span></div>
-                        <p><a href="tel:(888)123456789">(888) 123 456 789</a></p>
-                        <p><a href="mailto:support@example.com">support@example.com</a></p>
+                        <p><a href="tel:+234-909-426-7360">+234 909 426 7360</a></p>
+                        <p><a href="tel:+234-902-208-1910">+234 902 208 1910</a></p>
+                        <p><a href="mailto:info@thebooleantech.com.ng">info@thebooleantech.com.ng</a></p>
+                        <p><a href="mailto:thebooleantech@gmail.com">thebooleantech@gmail.com</a></p>
                     </div>
                 </div>
             </div>
@@ -93,7 +119,7 @@
             <div class="outer-container">
                 <div class="main-box clearfix">
                     <div class="logo-box">
-                        <div class="logo"><a href="index.html"><img src="/assets/images/logo.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="/"><img src="/assets/images/logo.png" alt="" title=""></a></div>
                     </div>
 
                     <div class="nav-outer">
@@ -108,31 +134,30 @@
                                             <li><a href="/home-banner">Home Banner</a></li>
                                         </ul>
                                     </li>
-                                    <li class="current dropdown"><a href="/about-us">About</a>
+                                    <li class="dropdown"><a href="/about-us">About</a>
                                         <ul>
                                             <li><a href="/about-us">About Us</a></li>
-                                            <li><a href="about-me.html">About Me</a></li>
+                                            <li><a href="/about-me">About Me</a></li>
                                             <li><a href="/faqs">FAQ's</a></li>
-                                            <li><a href="/team">Team</a></li>
-                                            <li><a href="coming-soon.html">Coming Soon</a></li>
+                                            <li><a href="/teams">Team</a></li>
+                                            
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="/services">Services</a>
                                         <ul>
-                                            <li><a href="/services">All Services</a></li>
-                                            <li><a href="/services-details">Civil Enginerring</a></li>
-                                            <li><a href="/services-details">Oil & Gas Engineering</a></li>
-                                            <li><a href="/services-details">Chemical Engineering</a></li>
-                                            <li><a href="/services-details">Agriculture Engineering</a></li>
-                                            <li><a href="/services-details">Mechanical Engineering</a></li>
-                                            <li><a href="/services-details">Service Detail</a></li>
+                                        <li><a href="/services">All Services</a></li>
+                                        <li><a href="/web-dev">Web Development</a></li>
+                                        <li><a href="/ios-dev">Iphone App Development</a></li>
+                                        <li><a href="/android-dev">Android App Development</a></li>
+                                        <li><a href="/ui-ux">UI/UX Design And Prototyping</a></li>
+                                        <li><a href="/seo-digital-marketing">Degital Marketing & SEO</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="projects.html">Projects</a>
+                                    <li class="dropdown"><a href="/projects-details">Products</a>
                                         <ul>
-                                            <li><a href="/projects">Project with Filters</a></li>
-                                            <li><a href="/projects2">Project Slide Show</a></li>
-                                            <li><a href="/projects-detail">Project Detail</a></li>
+                                            <li><a href="#">Resulta-School Management System</a></li>
+                                            <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
+                                            <li><a href="/projects-details">Projects Details</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="/contact-us">Contact</a></li>
@@ -144,7 +169,7 @@
 
                         <div class="outer-box clearfix">
                             <!-- Shoppping Car -->
-                           
+                            
 
                             <!-- Search Btn -->
                             <div class="search-box">
@@ -178,7 +203,7 @@
             <div class="auto-container">
                 <h2>Service Detail</h2>
                 <ul class="page-breadcrumb">
-                    <li><a href="index.html">home</a></li>
+                    <li><a href="/">home</a></li>
                     <li>Service Detail</li>
                 </ul>
             </div>
@@ -201,27 +226,50 @@
 
                             <!--Title Style One-->
                             <div class="content-box"> 
-                                <h2>Civil Engineering</h2>
-                                <p>Expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself,</p>
-                                <p>Occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure. because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself.</p>
+                                <h2>Web Development</h2>
+                                <p>Our web development experts at The Boolean Tech have accomplished a wide range of commercial projects on varying website development platforms. These include WordPress, PHP, SharePoint, ASP.NET, CakePHP, Joomla and Drupal. As a reputed Web Development Company, we put our best possible efforts to achieve a huge appreciation and satisfaction from our clients.</p>
+                                <p>Eye-catching themes, unique designs and visually appealing website layouts have helped us to obtain a strong position in the web development sector. Along with this, our experts at The Boolean Tech understand well that each business has specific requirements. Hence, we deploy unique solutions to meet the individual requirements of our global clients and deliver competitive business benefits.</p>
                                 <div class="two-column row">
                                     <div class="text-column col-lg-6 col-md-6 col-sm-12 order-2">
-                                        <p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure. because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself.</p>
+                                        
+                                        <h2>Responsive Web Design</h2>
+                                        <p>An approach which suggests that the design of the website should interact with the user’s environment is called Responsive Web design. The user’s environment may include screen size, orientation and platform. A website which is designed with Responsive Web Design feature should adjust the layout using fluid, flexible images, proportional grids and CSS3 media queries.</p>
                                     </div>
                                     <div class="image-column col-lg-6 col-md-6 col-sm-12">
                                         <figure class="image"><a href="/assets/images/resource/service-img.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
                                     </div>
                                 </div>
-                                <h4>Key Benefits of Service</h4>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do ei usmod tem incididunt. enim ad minim veniam, quis nostrud exer citation ullamco laboris nisiut aliquip ex commodo consequat duis aute. irure dolor. excepteur sint occaecat cupidatat non proident.</p>
+                                <div class="two-column row">
+                                    <div class="text-column col-lg-6 col-md-6 col-sm-12 order-2">
+                                        
+                                        <h2>Secure Web Development</h2>
+                                        <p>Many sites are cleaned on a daily basis and the problems are more or less the same: outdated software, or weak passwords or so on. Both the problems as well as solutions cannot be limited to any one of the programming languages. Though it is possible that the functions or methods carry different names, the basic principle is the same that is to prevent SQL Injection attacks.</p>
+                                    </div>
+                                    <div class="image-column col-lg-6 col-md-6 col-sm-12">
+                                        <figure class="image"><a href="/assets/images/resource/service-img.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
+                                    </div>
+                                </div>
+                                <div class="two-column row">
+                                    <div class="text-column col-lg-6 col-md-6 col-sm-12 order-2">
+                                        
+                                        <h2>Web Maintenance</h2>
+                                        <p>The programs under Website maintenance ensure that the site is updated which makes the project within the budget. These programs include images updates, content updates, telephonic support. It includes editing, revising, editing, or changing the existing web pages which make the website updated. The value each website carries comes from its ability to maintain the existing information online and that too at a reasonable price.</p>
+                                    </div>
+                                    <div class="image-column col-lg-6 col-md-6 col-sm-12">
+                                        <figure class="image"><a href="/assets/images/resource/service-img.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
+                                    </div>
+                                </div>
+                                <h4>Our Web App Development Process</h4>
+                                <p>The Boolean Tech maintains transparency in its project planning and execution with clients so that the clients are assured that the final ouput delivered to them matches their requirements . The Boolean Tech adheres to SDLC (Software development life cyle) rules for project development and execution.</p>
                                 <div class="feature-box row">
 
                                     <!-- Feature Block -->
                                     <div class="feature-block-two col-xl-6 col-lg-12 col-md-6 col-sm-12 wow fadeInUp">
                                         <div class="inner-box">
                                             <span class="icon flaticon-project-management"></span>
-                                            <h4>Creative Ideas</h4>
-                                            <div class="text">A high level service provider that recommended to any company.</div>
+                                            
+                                            <h4>Requirement Analysis</h4>
+                                            <div class="text">Requirement analysis is the foundation of every web development team and our team is an expert in gathering accurate and quality information in depth.</div>
                                         </div>
                                     </div>
 
@@ -229,8 +277,8 @@
                                     <div class="feature-block-two col-xl-6 col-lg-12 col-md-6 col-sm-12 wow fadeInUp">
                                         <div class="inner-box">
                                             <span class="icon flaticon-mechanic"></span>
-                                            <h4>Expert Engineers</h4>
-                                            <div class="text">A high level service provider that recommended to any company.</div>
+                                            <h4>Design Phase</h4>
+                                            <div class="text">Designer Phase deals with the team of creative designers trying to give a structure to your ideas in virtual reality as per your requirement.</div>
                                         </div>
                                     </div>
 
@@ -238,8 +286,8 @@
                                     <div class="feature-block-two col-xl-6 col-lg-12 col-md-6 col-sm-12 wow fadeInUp">
                                         <div class="inner-box">
                                             <span class="icon flaticon-24-hours"></span>
-                                            <h4>Professional Support</h4>
-                                            <div class="text">A high level service provider that recommended to any company.</div>
+                                            <h4>Coding Phase</h4>
+                                            <div class="text">In the coding Phase, our development team applies various functionalities to run your bunch of ideas into a real fully equipped Web app.</div>
                                         </div>
                                     </div>
 
@@ -247,8 +295,8 @@
                                     <div class="feature-block-two col-xl-6 col-lg-12 col-md-6 col-sm-12 wow fadeInUp">
                                         <div class="inner-box">
                                             <span class="icon flaticon-team"></span>
-                                            <h4>Compatitive Price</h4>
-                                            <div class="text">A high level service provider that recommended to any company.</div>
+                                            <h4>Testing Phase.</h4>
+                                            <div class="text">In the testing phase, the QA team tests the application, approves it and deploys it to the client site.</div>
                                         </div>
                                     </div>
 
@@ -256,21 +304,13 @@
                                     <div class="feature-block-two col-xl-6 col-lg-12 col-md-6 col-sm-12 wow fadeInUp">
                                         <div class="inner-box">
                                             <span class="icon flaticon-manufacturing-1"></span>
-                                            <h4>Quality Product</h4>
-                                            <div class="text">A high level service provider that recommended to any company.</div>
+                                            <h4>Release & Publicity</h4>
+                                            <div class="text">We understand that Proper marketing and handling is central to the success of any application. The Boolean Tech’s pool of expert marketers apply the right promotional strategies and helps with the launch of application on the world wide web.</div>
                                         </div>
                                     </div>
 
-                                    <!-- Feature Block -->
-                                    <div class="feature-block-two col-xl-6 col-lg-12 col-md-6 col-sm-12 wow fadeInUp">
-                                        <div class="inner-box">
-                                            <span class="icon flaticon-clock-4"></span>
-                                            <h4>Quick Delivery </h4>
-                                            <div class="text">A high level service provider that recommended to any company.</div>
-                                        </div>
-                                    </div>
                                 </div>
-                                <p>Sunt in culpa qui officia deserunt mollit anim est laborum. Sed perspiciatis unde omnis iste natus error sit volup  tatem accusantium dolore mque laudantium, totam rem aperiam eaque ipsa quae ab illo inventore.enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+                                <p>Impressed? Let’s Talk About Your Web Project!</p> <a class="theme-btn btn-style-two" href="contact.html"><span class="btn-title">Contact Us</span></a>
                             </div>
                         </div><!-- Service Detail -->
                     </div>
@@ -282,13 +322,12 @@
                             <!-- Services Cat List -->
                             <div class="sidebar-widget categories">
                                 <ul class="cat-list">
-                                    <li><a href="services.html">All Services</a></li>
-                                    <li class="active"><a href="service-detail.html">Civil Enginerring</a></li>
-                                    <li><a href="service-detail.html">Oil & Gas Engineering</a></li>
-                                    <li><a href="service-detail.html">Chemical Engineering</a></li>
-                                    <li><a href="service-detail.html">Agriculture Engineering</a></li>
-                                    <li><a href="service-detail.html">Mechanical Engineering</a></li>
-                                    <li><a href="service-detail.html">Service Detail</a></li>
+                                <li><a href="/services">All Services</a></li>
+                                <li><a href="/web-dev">Web Development</a></li>
+                                <li><a href="/ios-dev">Iphone App Development</a></li>
+                                <li><a href="/android-dev">Android App Development</a></li>
+                                <li><a href="/ui-ux">UI/UX Design And Prototyping</a></li>
+                                <li><a href="/seo-digital-marketing">Degital Marketing & SEO</a></li>
                                 </ul>
                             </div>
 
@@ -306,10 +345,13 @@
                             <!-- Brochure -->
                             <div class="sidebar-widget help-box">
                                 <div class="inner-box">
-                                    <h6>Have You Any Requirement of Industrial Work ?</h6>
+                                    <h6>Have You Any Requirement of Our Work ?</h6>
                                     <ul class="info-box">
-                                        <li><span class="icon fa fa-envelope"></span> <a href="mailto:hello@example.com">hello@example.com</a></li>
-                                        <li><span class="icon fa fa-phone"></span> <a href="tel:(021)2353256">(021) 235 3256</a></li>
+                                        <li><span class="icon fa fa-envelope"></span> <a href="mailto:info@thebooleantech.com.ng">info@thebooleantech.com.ng</a></li>
+                                        <li><span class="icon fa fa-envelope"></span> <a href="mailto:thebooleantech@gmail.com">thebooleantech@gmail.com</a></li>
+                                        <li><span class="icon fa fa-phone"></span> <a href="tel:+234-909-426-7360">+234 909 426 7360</a></li>
+                                       
+                                        <li><span class="icon fa fa-phone"></span> <a href="tel:+234-902-208-1910">+234 902 208 1910</a></li>
                                     </ul>
                                     <a class="theme-btn btn-style-two" href="contact.html"><span class="btn-title">Contact Us</span></a>
                                 </div>
@@ -354,10 +396,10 @@
                                 <div class="footer-column col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                     <div class="footer-widget about-widget">
                                         <div class="logo">
-                                            <a href="index.html"><img src="/assets/images/logo.png" alt="" /></a>
+                                            <a href="/"><img src="/assets/images/logo.png" alt="" /></a>
                                         </div>
                                         <div class="text">
-                                            <p>We have very good strength in innovative technology and tools with over 35 years of experience. We makes long-term investments goal in global companies in different sectors, mainly in Europe and other countries.</p>           
+                                            <p>We are a boutique consultation firm that specialize in building great customer experiences through mobile, web and conversational software..</p>           
                                         </div>
                                         <ul class="social-icon-two">
                                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -399,12 +441,11 @@
                                     <div class="footer-widget useful-links">
                                         <h2 class="widget-title">Useful Links</h2>
                                         <ul class="user-links">
-                                            <li><a href="index-2.html">Home</a></li>
-                                            <li><a href="about-us.html">About Us</a></li>
-                                            <li><a href="services.html">Services</a></li>
-                                            <li><a href="projects.html">Projects</a></li>
-                                            <li><a href="blog.html">Blogs</a></li>
-                                            <li><a href="contact.html">Contact Us</a></li>
+                                            <li><a href="/">Home</a></li>
+                                            <li><a href="/about-us">About Us</a></li>
+                                            <li><a href="/services">Services</a></li>
+                                            <li><a href="/projects">Projects</a></li>
+                                            <li><a href="/contact-us">Contact Us</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -424,17 +465,25 @@
 
                                                 <li>
                                                     <span class="icon flaticon-call-1"></span>
-                                                    <div class="text"><a href="tel:+1-345-5678-77">+1-345-5678-77</a></div>
+                                                    <div class="text"><a href="tel:+234-909-426-7360">+234 909 426 7360</a></div>
+                                                </li>
+                                                <li>
+                                                    <span class="icon flaticon-call-1"></span>
+                                                    <div class="text"><a href="tel:+234-902-208-1910">+234 902 208 1910</a></div>
                                                 </li>
 
                                                 <li>
                                                     <span class="icon flaticon-paper-plane"></span>
-                                                    <div class="text"><a href="mailto:support@example.com">support@example.com</a></div>
+                                                    <div class="text"><a href="mailto:info@thebooleantech.com.ng">info@thebooleantech.com.ng</a></div>
+                                                </li>
+                                                <li>
+                                                    <span class="icon flaticon-paper-plane"></span>
+                                                    <div class="text"><a href="mailto:thebooleantech@gmail.com">thebooleantech@gmail.com</a></div>
                                                 </li>
 
                                                 <li>
                                                     <span class="icon flaticon-worldwide"></span>
-                                                    <div class="text">13005 Greenville Avenue<br> California, TX 70240</div>
+                                                    <div class="text">Independence Avenue, CBD, Abuja.</div>
                                                 </li>
                                             </ul>
                                         </div>
@@ -459,7 +508,7 @@
                         </div>
                         
                         <div class="copyright-text">
-                            <p>© Copyright 2019 All Rights Reserved by <a href="index.html">Bold_Touch</a></p>
+                            <p>© Copyright 2020 -<a href="/">The Boolean Tech</a> All Rights Reserved. </p>
                         </div>
                     </div>
                 </div>
@@ -504,3 +553,22 @@
     <a href="#" class="purchase-btn">Purchase now!</a>
 </div><!-- End Color Switcher -->
 
+<script src="/assets/js/jquery.js"></script> 
+<script src="/assets/js/popper.min.js"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
+<script src="/assets/js/owl.js"></script>
+<script src="/assets/js/wow.js"></script>
+<script src="/assets/js/mixitup.js"></script>
+<script src="/assets/js/appear.js"></script>
+<script src="/assets/js/jquery.stellar.min.js"></script>
+<script src="/assets/js/jquery.fancybox.js"></script>
+<script src="/assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="/assets/js/swiper.min.js"></script>
+<script src="/assets/js/TweenMax.min.js"></script>
+<script src="/assets/js/script.js"></script>
+<!-- Color Setting -->
+<script src="/assets/js/color-settings.js"></script>
+</body>
+
+<!-- Mirrored from ary-themes.com/html/sinaea/services-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Sep 2020 15:39:49 GMT -->
+</html>

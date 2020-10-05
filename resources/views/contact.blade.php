@@ -24,35 +24,34 @@
                                 <li><a href="/home-banner">Home Banner</a></li>
                             </ul>
                         </li>
-                        <li class="current dropdown"><a href="/about-us">About</a>
+                        <li class="dropdown"><a href="/about-us">About</a>
                             <ul>
                                 <li><a href="/about-us">About Us</a></li>
-                                <li><a href="about-me.html">About Me</a></li>
+                                <li><a href="/about-me">About Me</a></li>
                                 <li><a href="/faqs">FAQ's</a></li>
-                                <li><a href="/team">Team</a></li>
-                                <li><a href="coming-soon.html">Coming Soon</a></li>
+                                <li><a href="/teams">Team</a></li>
+                                
                             </ul>
                         </li>
                         <li class="dropdown"><a href="/services">Services</a>
                             <ul>
-                                <li><a href="/services">All Services</a></li>
-                                <li><a href="/services-details">Civil Enginerring</a></li>
-                                <li><a href="/services-details">Oil & Gas Engineering</a></li>
-                                <li><a href="/services-details">Chemical Engineering</a></li>
-                                <li><a href="/services-details">Agriculture Engineering</a></li>
-                                <li><a href="/services-details">Mechanical Engineering</a></li>
-                                <li><a href="/services-details">Service Detail</a></li>
+                            <li><a href="/services">All Services</a></li>
+                                <li><a href="/web-dev">Web Development</a></li>
+                                <li><a href="/ios-dev">Iphone App Development</a></li>
+                                <li><a href="/android-dev">Android App Development</a></li>
+                                <li><a href="/ui-ux">UI/UX Design And Prototyping</a></li>
+                                <li><a href="/seo-digital-marketing">Degital Marketing & SEO</a></li>
                             </ul>
                         </li>
-                        <li class="dropdown"><a href="/projects">Projects</a>
+                        <li class="dropdown"><a href="/projects-details">Products</a>
                             <ul>
-                                <li><a href="/projects">Project with Filters</a></li>
-                                <li><a href="/projects2">Project Slide Show</a></li>
-                                <li><a href="/project-detail">Project Detail</a></li>
+                                <li><a href="#">Resulta-School Management System</a></li>
+                                <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
+                                <li><a href="/projects-details">Projects Details</a></li>
                             </ul>
                         </li>
                         
-                        <li><a href="/contact-us">Contact</a></li>
+                        <li class="current"><a href="/contact-us">Contact</a></li>
                     </ul> 
                 </nav><!-- /.Side-menu -->
 
@@ -60,7 +59,7 @@
                     <!--Info Box-->
                     <div class="info-box">
                         <div class="icon-box"><span class="fa fa-home"></span></div>
-                        <p>13005 Greenville Avenue <br>United Kingdom, TX 70240</p>
+                        <p>Independence Avenue<br> Abuja,  CBD,</p>
                     </div>
 
                     <!--Info Box-->
@@ -73,8 +72,10 @@
                     <!--Info Box-->
                     <div class="info-box">
                         <div class="icon-box"><span class="far fa-envelope"></span></div>
-                        <p><a href="tel:(888)123456789">(888) 123 456 789</a></p>
-                        <p><a href="mailto:support@example.com">support@example.com</a></p>
+                        <p><a href="tel:+234-909-426-7360">+234 909 426 7360</a></p>
+                        <p><a href="tel:+234-902-208-1910">+234 902 208 1910</a></p>
+                        <p><a href="mailto:info@thebooleantech.com.ng">info@thebooleantech.com.ng</a></p>
+                        <p><a href="mailto:thebooleantech@gmail.com">thebooleantech@gmail.com</a></p>
                     </div>
                 </div>
             </div>
@@ -93,7 +94,7 @@
             <div class="outer-container">
                 <div class="main-box clearfix">
                     <div class="logo-box">
-                        <div class="logo"><a href="index.html"><img src="/assets/images/logo.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="/"><img src="/assets/images/logo.png" alt="" title=""></a></div>
                     </div>
 
                     <div class="nav-outer">
@@ -108,34 +109,33 @@
                                             <li><a href="/home-banner">Home Banner</a></li>
                                         </ul>
                                     </li>
-                                    <li class="current dropdown"><a href="/about-us">About</a>
+                                    <li class="dropdown"><a href="/about-us">About</a>
                                         <ul>
                                             <li><a href="/about-us">About Us</a></li>
-                                            <li><a href="about-me.html">About Me</a></li>
+                                            <li><a href="/about-me">About Me</a></li>
                                             <li><a href="/faqs">FAQ's</a></li>
-                                            <li><a href="/team">Team</a></li>
-                                            <li><a href="coming-soon.html">Coming Soon</a></li>
+                                            <li><a href="/teams">Team</a></li>
+                                            
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="/services">Services</a>
                                         <ul>
-                                            <li><a href="/services">All Services</a></li>
-                                            <li><a href="/services-details">Civil Enginerring</a></li>
-                                            <li><a href="/services-details">Oil & Gas Engineering</a></li>
-                                            <li><a href="/services-details">Chemical Engineering</a></li>
-                                            <li><a href="/services-details">Agriculture Engineering</a></li>
-                                            <li><a href="/services-details">Mechanical Engineering</a></li>
-                                            <li><a href="/services-details">Service Detail</a></li>
+                                        <li><a href="/services">All Services</a></li>
+                                        <li><a href="/web-dev">Web Development</a></li>
+                                        <li><a href="/ios-dev">Iphone App Development</a></li>
+                                        <li><a href="/android-dev">Android App Development</a></li>
+                                        <li><a href="/ui-ux">UI/UX Design And Prototyping</a></li>
+                                        <li><a href="/seo-digital-marketing">Degital Marketing & SEO</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="projects.html">Projects</a>
+                                    <li class="dropdown"><a href="/projects-details">Products</a>
                                         <ul>
-                                            <li><a href="/projects">Project with Filters</a></li>
-                                            <li><a href="/projects2">Project Slide Show</a></li>
-                                            <li><a href="/projects-detail">Project Detail</a></li>
+                                            <li><a href="#">Resulta-School Management System</a></li>
+                                            <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
+                                            <li><a href="/projects-details">Projects Details</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="/contact-us">Contact</a></li>
+                                    <li class="current"><a href="/contact-us">Contact</a></li>
                                 </ul> 
 
                             </div>
@@ -178,7 +178,7 @@
             <div class="auto-container">
                 <h2>Contact Us</h2>
                 <ul class="page-breadcrumb">
-                    <li><a href="index.html">home</a></li>
+                    <li><a href="/">home</a></li>
                     <li>Contact Us</li>
                 </ul>
             </div>
@@ -325,10 +325,10 @@
                                 <div class="footer-column col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                     <div class="footer-widget about-widget">
                                         <div class="logo">
-                                            <a href="index.html"><img src="/assets/images/logo.png" alt="" /></a>
+                                            <a href="/"><img src="/assets/images/logo.png" alt="" /></a>
                                         </div>
                                         <div class="text">
-                                            <p>We have very good strength in innovative technology and tools with over 35 years of experience. We makes long-term investments goal in global companies in different sectors, mainly in Europe and other countries.</p>           
+                                            <p>We are a boutique consultation firm that specialize in building great customer experiences through mobile, web and conversational software..</p>           
                                         </div>
                                         <ul class="social-icon-two">
                                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -370,12 +370,11 @@
                                     <div class="footer-widget useful-links">
                                         <h2 class="widget-title">Useful Links</h2>
                                         <ul class="user-links">
-                                            <li><a href="index-2.html">Home</a></li>
-                                            <li><a href="about-us.html">About Us</a></li>
-                                            <li><a href="services.html">Services</a></li>
-                                            <li><a href="projects.html">Projects</a></li>
-                                            <li><a href="blog.html">Blogs</a></li>
-                                            <li><a href="contact.html">Contact Us</a></li>
+                                            <li><a href="/">Home</a></li>
+                                            <li><a href="/about-us">About Us</a></li>
+                                            <li><a href="/services">Services</a></li>
+                                            <li><a href="/projects">Projects</a></li>
+                                            <li><a href="/contact-us">Contact Us</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -395,17 +394,25 @@
 
                                                 <li>
                                                     <span class="icon flaticon-call-1"></span>
-                                                    <div class="text"><a href="tel:+1-345-5678-77">+1-345-5678-77</a></div>
+                                                    <div class="text"><a href="tel:+234-909-426-7360">+234 909 426 7360</a></div>
+                                                </li>
+                                                <li>
+                                                    <span class="icon flaticon-call-1"></span>
+                                                    <div class="text"><a href="tel:+234-902-208-1910">+234 902 208 1910</a></div>
                                                 </li>
 
                                                 <li>
                                                     <span class="icon flaticon-paper-plane"></span>
-                                                    <div class="text"><a href="mailto:support@example.com">support@example.com</a></div>
+                                                    <div class="text"><a href="mailto:info@thebooleantech.com.ng">info@thebooleantech.com.ng</a></div>
+                                                </li>
+                                                <li>
+                                                    <span class="icon flaticon-paper-plane"></span>
+                                                    <div class="text"><a href="mailto:thebooleantech@gmail.com">thebooleantech@gmail.com</a></div>
                                                 </li>
 
                                                 <li>
                                                     <span class="icon flaticon-worldwide"></span>
-                                                    <div class="text">13005 Greenville Avenue<br> California, TX 70240</div>
+                                                    <div class="text">Independence Avenue, CBD, Abuja.</div>
                                                 </li>
                                             </ul>
                                         </div>
@@ -430,7 +437,7 @@
                         </div>
                         
                         <div class="copyright-text">
-                            <p>© Copyright 2019 All Rights Reserved by <a href="index.html">Bold_Touch</a></p>
+                            <p>© Copyright 2020 -<a href="/">The Boolean Tech</a> All Rights Reserved. </p>
                         </div>
                     </div>
                 </div>

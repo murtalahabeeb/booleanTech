@@ -1,6 +1,32 @@
-@extends('layout.layout')
+<!DOCTYPE html>
+<html lang="en">
 
-@section('content')
+<!-- Mirrored from ary-themes.com/html/sinaea/services-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Sep 2020 15:39:47 GMT -->
+<head>
+<meta charset="utf-8">
+<title>SINAEA - Industry and Factory HTML Template | Service Detail</title>
+<!-- Stylesheets -->
+<link href="/assets/css/bootstrap.css" rel="stylesheet">
+<link href="/assets/css/style.css" rel="stylesheet">
+<link href="/assets/css/responsive.css" rel="stylesheet">
+<!--Color Switcher Mockup-->
+<link href="/assets/css/color-switcher-design.css" rel="stylesheet">
+
+<!--Color Themes-->
+<link id="theme-color-file" href="/assets/css/color-themes/default-theme.css" rel="stylesheet">
+
+<link rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-icon">
+<link rel="icon" href="/assets/images/favicon.png" type="image/x-icon">
+
+<!-- Responsive -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="/assets/js/respond.js"></script><![endif]-->
+</head>
+
+<body>
+
 <div class="page-wrapper">
     <!-- Preloader -->
     <div class="preloader"></div>
@@ -29,11 +55,12 @@
                                 <li><a href="/about-me">About Me</a></li>
                                 <li><a href="/faqs">FAQ's</a></li>
                                 <li><a href="/teams">Team</a></li>
-                                
+
                             </ul>
                         </li>
                         <li class="dropdown"><a href="/services">Services</a>
                             <ul>
+                            
                                 <li><a href="/services">All Services</a></li>
                                 <li><a href="/web-dev">Web Development</a></li>
                                 <li><a href="/ios-dev">Iphone App Development</a></li>
@@ -53,6 +80,7 @@
                         <li><a href="/contact-us">Contact</a></li>
                     </ul> 
                 </nav><!-- /.Side-menu -->
+                
                 <div class="contact-info-box">
                     <!--Info Box-->
                     <div class="info-box">
@@ -107,33 +135,32 @@
                                             <li><a href="/home-banner">Home Banner</a></li>
                                         </ul>
                                     </li>
-                                    <li class="current dropdown"><a href="/about-us">About</a>
+                                    <li class="dropdown"><a href="/about-us">About</a>
                                         <ul>
                                             <li><a href="/about-us">About Us</a></li>
                                             <li><a href="/about-me">About Me</a></li>
                                             <li><a href="/faqs">FAQ's</a></li>
-                                            <li><a href="/teamss">Team</a></li>
+                                            <li><a href="/teams">Team</a></li>
                                             
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="/services">Services</a>
+                                    <li class="current dropdown"><a href="/services">Services</a>
                                         <ul>
                                         <li><a href="/services">All Services</a></li>
-                                <li><a href="/services-details">Web Development</a></li>
-                                <li><a href="/services-details">Iphone App Development</a></li>
-                                <li><a href="/services-details">Android App Development</a></li>
-                                <li><a href="/services-details">UI/UX Design And Prototyping</a></li>
-                                <li><a href="/services-details">Degital Marketing & SEO</a></li>
-                                <li><a href="/services-details">Service Detail</a></li>
+                                        <li><a href="/web-dev">Web Development</a></li>
+                                        <li><a href="/ios-dev">Iphone App Development</a></li>
+                                        <li><a href="/android-dev">Android App Development</a></li>
+                                        <li><a href="/ui-ux">UI/UX Design And Prototyping</a></li>
+                                        <li><a href="/seo-digital-marketing">Degital Marketing & SEO</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="/projects-details">Products</a>
-                                    <ul>
-                                        <li><a href="#">Resulta-School Management System</a></li>
-                                        <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
-                                        <li><a href="/projects-details">Projects Details</a></li>
-                                    </ul>
-                                </li>
+                                        <ul>
+                                            <li><a href="#">Resulta-School Management System</a></li>
+                                            <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
+                                            <li><a href="/projects-details">Projects Details</a></li>
+                                        </ul>
+                                    </li>
                                     <li><a href="/contact-us">Contact</a></li>
                                 </ul> 
 
@@ -142,6 +169,7 @@
                         <!-- Main Menu End-->
 
                         <div class="outer-box clearfix">
+                            <!-- Shoppping Car -->
                             
 
                             <!-- Search Btn -->
@@ -172,218 +200,177 @@
         <!-- End Search Popup -->
 
         <!--Page Title-->
-        <section class="page-title" style="background-image:url(/assets/images/background/8.jpg)">
+        <section class="page-title" style="background-image:url(/assets/images/background/9.jpg)">
             <div class="auto-container">
-                <h2>FAQ's</h2>
+                <h2>Service Detail</h2>
                 <ul class="page-breadcrumb">
                     <li><a href="/">home</a></li>
-                    <li>FAQ's</li>
+                    <li>Service Detail</li>
                 </ul>
             </div>
         </section>
         <!--End Page Title-->
 
-        <!-- FAQ's Section -->
-        <section class="faq-section">
+        <!-- Service Detail Section -->
+        <div class="service-detail-section">
             <div class="auto-container">
-                <!-- Sec Title -->
-                <div class="sec-title">
-                    <span class="float-text">Faqs</span>
-                    <h2>General <span>Questions</span></h2>
-                </div>
-                
-                <div class="row clearfix">
-                    <!-- Content Column -->
-                    <div class="content-column col-lg-6 col-md-12 col-sm-12">
-                        <div class="inner-column">
-                            <!--Accordian Box-->
-                            <ul class="accordion-box">
-                                <!--Block-->
-                                <li class="accordion block wow fadeInUp">
-                                    <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-down"></span> </div>What is Cohousing?</div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Lorem ipsum dolor amet consectur adipicing elit eiusmod tempor incididunt ut labore dolore magna aliqua.enim minim veniam quis nostrud exercitation ullamco laboris.</div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <!--Block-->
-                                <li class="accordion block wow fadeInUp">
-                                    <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-down"></span> </div>How is the privacy issues?</div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Lorem ipsum dolor amet consectur adipicing elit eiusmod tempor incididunt ut labore dolore magna aliqua.enim minim veniam quis nostrud exercitation ullamco laboris.</div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <!--Block-->
-                                <li class="accordion block active-block wow fadeInUp">
-                                    <div class="acc-btn active"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-down"></span> </div>Can we change the design?</div>
-                                    <div class="acc-content current">
-                                        <div class="content">
-                                            <div class="text">Lorem ipsum dolor amet consectur adipicing elit eiusmod tempor incididunt ut labore dolore magna aliqua.enim minim veniam quis nostrud exercitation ullamco laboris.</div>
-                                        </div>
-                                    </div>
-                                </li>
-                                
-                                <!--Block-->
-                                <li class="accordion block wow fadeInUp">
-                                    <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-down"></span> </div>How is the privacy issues?</div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Lorem ipsum dolor amet consectur adipicing elit eiusmod tempor incididunt ut labore dolore magna aliqua.enim minim veniam quis nostrud exercitation ullamco laboris.</div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <!--Block-->
-                                <li class="accordion block wow fadeInUp">
-                                    <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-down"></span> </div>What is Cohousing?</div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Lorem ipsum dolor amet consectur adipicing elit eiusmod tempor incididunt ut labore dolore magna aliqua.enim minim veniam quis nostrud exercitation ullamco laboris.</div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <!--Block-->
-                                <li class="accordion block wow fadeInUp">
-                                    <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-down"></span> </div>How is the privacy issues?</div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Lorem ipsum dolor amet consectur adipicing elit eiusmod tempor incididunt ut labore dolore magna aliqua.enim minim veniam quis nostrud exercitation ullamco laboris.</div>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <!-- Content Column -->
-                    <div class="content-column col-lg-6 col-md-12 col-sm-12">
-                        <div class="inner-column">
-                            <!--Accordian Box-->
-                            <ul class="accordion-box">
-                                <!--Block-->
-                                <li class="accordion block wow fadeInUp">
-                                    <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-down"></span> </div>What is Cancelation Period?</div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Lorem ipsum dolor amet consectur adipicing elit eiusmod tempor incididunt ut labore dolore magna aliqua.enim minim veniam quis nostrud exercitation ullamco laboris.</div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <!--Block-->
-                                <li class="accordion block wow fadeInUp">
-                                    <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-down"></span> </div>What is Cohousing?</div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Lorem ipsum dolor amet consectur adipicing elit eiusmod tempor incididunt ut labore dolore magna aliqua.enim minim veniam quis nostrud exercitation ullamco laboris.</div>
-                                        </div>
-                                    </div>
-                                </li>
-                                
-                                <!--Block-->
-                                <li class="accordion block wow fadeInUp">
-                                    <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-down"></span> </div>How is the privacy issues?</div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Lorem ipsum dolor amet consectur adipicing elit eiusmod tempor incididunt ut labore dolore magna aliqua.enim minim veniam quis nostrud exercitation ullamco laboris.</div>
-                                        </div>
-                                    </div>
-                                </li>
-
-
-                                <!--Block-->
-                                <li class="accordion block wow fadeInUp">
-                                    <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-down"></span> </div>What is Cohousing?</div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Lorem ipsum dolor amet consectur adipicing elit eiusmod tempor incididunt ut labore dolore magna aliqua.enim minim veniam quis nostrud exercitation ullamco laboris.</div>
-                                        </div>
-                                    </div>
-                                </li>
-                                
-                                <!--Block-->
-                                <li class="accordion block wow fadeInUp">
-                                    <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-down"></span> </div>How is the privacy issues?</div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Lorem ipsum dolor amet consectur adipicing elit eiusmod tempor incididunt ut labore dolore magna aliqua.enim minim veniam quis nostrud exercitation ullamco laboris.</div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                
-                                <!--Block-->
-                                <li class="accordion block wow fadeInUp">
-                                    <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-down"></span> </div>How is the privacy issues?</div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">Lorem ipsum dolor amet consectur adipicing elit eiusmod tempor incididunt ut labore dolore magna aliqua.enim minim veniam quis nostrud exercitation ullamco laboris.</div>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>  
-                </div>
-            </div>
-        </section>
-        <!-- End FAQ's Section -->
-
-        <!-- Faq Form Section -->
-        <section class="faq-form-section">
-            <div class="auto-container">
-                <div class="sec-title">
-                    <span class="float-text">No Luck?</span>
-                    <h2>Didn’t Find <span>Your Answer?</span></h2>
-                </div>
-                <div class="inner-container">
-                    <div class="row">
-                        <div class="form-column col-lg-6 col-md-12 col-sm-12">
-
-                            <!-- Faq Form -->
-                            <div class="faq-form">
-                                <form method="post" action="http://ary-themes.com/html/sinaea/.html">
-                                    <div class="row">
-                                        <div class="form-group col-lg-12 col-md-12">
-                                            <input type="text" name="username" placeholder="Name" required>
-                                        </div>
-                                        
-                                        <div class="form-group col-lg-12 col-md-12">
-                                            <input type="email" name="email" placeholder="Email" required>
-                                        </div>
-
-                                        <div class="form-group col-lg-12 col-md-12">
-                                            <input type="text" name="subject" placeholder="Subject" required>
-                                        </div>
-
-                                        <div class="form-group col-lg-12 col-md-12">
-                                            <textarea name="message" placeholder="Question Detail"></textarea>
-                                        </div>
-                                        
-                                        <div class="form-group col-lg-12 col-md-12">
-                                            <button class="theme-btn btn-style-one" type="submit" name="submit-form"><span class="btn-title">Get A Quote</span></button>
-                                        </div> 
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-
-                        <div class="image-column col-lg-6 col-md-12 col-sm-12">
+                <div class="row">
+                    <!--Content Side-->
+                    <div class="content-side col-lg-8 col-md-12 col-sm-12 order-2">
+                        <div class="service-detail">
+                            <!-- Image Box -->
                             <div class="image-box">
-                                <figure class="image"><img src="/assets/images/resource/man.png" alt=""></figure>
+                                <div class="image wow fadeIn">
+                                    <a href="/assets/images/resource/services-details.jpg" class="lightbox-image" data-fancybox="gallery"><img src="/assets/images/resource/services-details.jpg" alt=""></a>
+                                </div>
                             </div>
-                        </div>
+
+                            <!--Title Style One-->
+                            <div class="content-box"> 
+                                <h2>Digital Marketing & SEO</h2>
+                                <p>The Boolean Tech provides digital marketing and market research support. Digital marketing services are the best medium to not only connect with clients and partners but also generate trust. Digital marketing is often referred to as ‘online marketing’, ‘internet marketing’ or ‘web marketing’. Digital Marketing is a wide term that refers to wide range of digital advertising techniques applied to attract customers.</p>
+                                <p>The Boolean Tech has an edge over other players in digital marketing and market research industry. Our team provides a sharp and accurate solution with the combination of high professional development methodologies with advanced management tools which can shape up what you want.</p>
+                                <div class="two-column row">
+                                    <div class="text-column col-lg-6 col-md-6 col-sm-12 order-2">
+                                    <h2>Search Engine Optimization (SEO)</h2>
+                                        <p>Whether you want to boost your online sales, improve online reputation, get higher ranks on search engines or want to recover from a penalty- we do it all for you.</p>
+                                    </div>
+                                    <div class="image-column col-lg-6 col-md-6 col-sm-12">
+                                        <figure class="image"><a href="/assets/images/resource/service-img.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
+                                    </div>
+                                </div>
+                                <div class="two-column row">
+                                    <div class="text-column col-lg-6 col-md-6 col-sm-12 order-2">
+                                    <h2>Social Media Optimization (SEO)</h2>
+                                        <p>We, at The Boolean Tech with our years of experience in Social Media &  SEO Services, assure to make your online business more reachable using the best social media marketing strategies.</p>
+                                    </div>
+                                    <div class="image-column col-lg-6 col-md-6 col-sm-12">
+                                        <figure class="image"><a href="/assets/images/resource/service-img.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
+                                    </div>
+                                </div>
+                                <div class="two-column row">
+                                    <div class="text-column col-lg-6 col-md-6 col-sm-12 order-2">
+                                    <h2>App Store Optimization (ASO)</h2>
+                                        <p>Building an application is only a half of the deal. It is of no use until you deliver your app to your targeted users. This is a complex process and a true challenge considering an extremely tough competition in mobile app development industry nowadays.</p>
+                                    </div>
+                                    <div class="image-column col-lg-6 col-md-6 col-sm-12">
+                                        <figure class="image"><a href="/assets/images/resource/service-img.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
+                                    </div>
+                                </div>
+                                <div class="two-column row">
+                                    <div class="text-column col-lg-6 col-md-6 col-sm-12 order-2">
+                                    <h2>Pay Per Click (PPC)</h2>
+                                        <p>PPC advertisement services target your audience and improve the ads performance. It’s easy for searchers, good for search engines and best for online businesses!</p>
+                                    </div>
+                                    <div class="image-column col-lg-6 col-md-6 col-sm-12">
+                                        <figure class="image"><a href="/assets/images/resource/service-img.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
+                                    </div>
+                                </div>
+                                <h2>Why choose The Boolean Tech as your Digital Marketing and Marketing Research Partner</h2>
+                                <p>The Boolean Tech is quite familiar with online advertising space and offers the most creative and innovative online ad solutions equipped with spectacular technology that includes full featured ad serving, interactive targeting and ad network optimization. This facilitates companies with higher customer acquirement. We are dedicated to creating ads that can capture viewer’s attention quickly and are sustained in viewers mind for long.
+                                   We provide search engine optimization services, social media optimization, app store optimization and google ad words etc.</p>
+                                 <h4>Process we follow in Digital Marketing and Marketing Research</h4>
+                                <div class="feature-box row">
+
+                                    <!-- Feature Block -->
+                                    <div class="feature-block-two col-xl-6 col-lg-12 col-md-6 col-sm-12 wow fadeInUp">
+                                        <div class="inner-box">
+                                            <span class="icon flaticon-project-management"></span>
+                                            <h4>DEFINE OBJECTIVE</h4>
+                                            <div class="text">We get down to the root of your business objective, evaluate your needs and analyse them.</div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Feature Block -->
+                                    <div class="feature-block-two col-xl-6 col-lg-12 col-md-6 col-sm-12 wow fadeInUp">
+                                        <div class="inner-box">
+                                            <span class="icon flaticon-mechanic"></span>
+                                            <h4>LAY GROUNDWORK</h4>
+                                            <div class="text">At this stage, we develop sound strategy of how to market your product so it reaches its target audience.</div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Feature Block -->
+                                    <div class="feature-block-two col-xl-6 col-lg-12 col-md-6 col-sm-12 wow fadeInUp">
+                                        <div class="inner-box">
+                                            <span class="icon flaticon-24-hours"></span>
+                                            <h4>IMPLIMENTATION</h4>
+                                            <div class="text">We Implement Search Engine Optimization to increase your chances of being found in search engine results page.</div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Feature Block -->
+                                    <div class="feature-block-two col-xl-6 col-lg-12 col-md-6 col-sm-12 wow fadeInUp">
+                                        <div class="inner-box">
+                                            <span class="icon flaticon-team"></span>
+                                            <h4>AWARENESS CREATION</h4>
+                                            <div class="text">Next, we take a step towards creating awareness about your website/application on social media using our SMM and SEM tools.</div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Feature Block -->
+                                    <div class="feature-block-two col-xl-6 col-lg-12 col-md-6 col-sm-12 wow fadeInUp">
+                                        <div class="inner-box">
+                                            <span class="icon flaticon-manufacturing-1"></span>
+                                            <h4>ANALYTICS</h4>
+                                            <div class="text">Our work doesn’t end with the release of your product. We incorporate analytics to measure the success rate of your product.</div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Feature Block -->
+                                </div>
+                                <p>Impressed? Let’s Talk About Your Web Project!</p> <a class="theme-btn btn-style-two" href="contact.html"><span class="btn-title">Contact Us</span></a>
+                            </div>
+                        </div><!-- Service Detail -->
+                    </div>
+
+                    <!--Sidebar Side-->
+                    <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
+                        <aside class="sidebar services-sidebar">
+
+                            <!-- Services Cat List -->
+                            <div class="sidebar-widget categories">
+                                <ul class="cat-list">
+                                <li><a href="/services">All Services</a></li>
+                                <li><a href="/web-dev">Web Development</a></li>
+                                <li><a href="/ios-dev">Iphone App Development</a></li>
+                                <li><a href="/android-dev">Android App Development</a></li>
+                                <li><a href="/ui-ux">UI/UX Design And Prototyping</a></li>
+                                <li><a href="/seo-digital-marketing">Degital Marketing & SEO</a></li>
+                                </ul>
+                            </div>
+
+                            <!--Brochure Box-->
+                            <div class="sidebar-widget brochure-box">
+                                <div class="inner">
+                                    <h4>Download Brochures</h4>
+                                    <div class="text">Etiam tortor lorem, auctor ut orci ut, vehicula ultricies mauris. Sed pulvinar scelerisque.</div>
+                                    <a class="theme-btn btn-style-one" href="contact.html"><span class="btn-title"><i class="fa fa-file-pdf"></i> Download Brochures</span></a>
+                                    <a class="theme-btn btn-style-one" href="contact.html"><span class="btn-title"><i class="fa fa-file-pdf"></i> Company Presentation</span></a>
+                                </div>
+                            </div>  
+
+
+                            <!-- Brochure -->
+                            <div class="sidebar-widget help-box">
+                                <div class="inner-box">
+                                    <h6>Have You Any Requirement of Our Work ?</h6>
+                                    <ul class="info-box">
+                                        <li><span class="icon fa fa-envelope"></span> <a href="mailto:info@thebooleantech.com.ng">info@thebooleantech.com.ng</a></li>
+                                        <li><span class="icon fa fa-envelope"></span> <a href="mailto:thebooleantech@gmail.com">thebooleantech@gmail.com</a></li>
+                                        <li><span class="icon fa fa-phone"></span> <a href="tel:+234-909-426-7360">+234 909 426 7360</a></li>
+                                       
+                                        <li><span class="icon fa fa-phone"></span> <a href="tel:+234-902-208-1910">+234 902 208 1910</a></li>
+                                    </ul>
+                                    <a class="theme-btn btn-style-two" href="contact.html"><span class="btn-title">Contact Us</span></a>
+                                </div>
+                            </div>
+                        </aside>
                     </div>
                 </div>
             </div>
-        </section>
-        <!--End Contact Section -->
+        </div>
+        <!-- End Service Detail Section -->
 
         <!-- Clients Section -->
         <section class="clients-section">
@@ -575,3 +562,22 @@
     <a href="#" class="purchase-btn">Purchase now!</a>
 </div><!-- End Color Switcher -->
 
+<script src="/assets/js/jquery.js"></script> 
+<script src="/assets/js/popper.min.js"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
+<script src="/assets/js/owl.js"></script>
+<script src="/assets/js/wow.js"></script>
+<script src="/assets/js/mixitup.js"></script>
+<script src="/assets/js/appear.js"></script>
+<script src="/assets/js/jquery.stellar.min.js"></script>
+<script src="/assets/js/jquery.fancybox.js"></script>
+<script src="/assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="/assets/js/swiper.min.js"></script>
+<script src="/assets/js/TweenMax.min.js"></script>
+<script src="/assets/js/script.js"></script>
+<!-- Color Setting -->
+<script src="/assets/js/color-settings.js"></script>
+</body>
+
+<!-- Mirrored from ary-themes.com/html/sinaea/services-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Sep 2020 15:39:49 GMT -->
+</html>
