@@ -20,7 +20,7 @@
                 <!-- .Side Nav -->
                 <nav class="side-nav">
                     <ul class="navigation clearfix" id="nav">
-                        <li class="dropdown"><a href="/">Home</a>
+                        <li class=""><a href="/">Home</a>
                             
                         </li>
                         <li class="current dropdown"><a href="/about-us">About</a>
