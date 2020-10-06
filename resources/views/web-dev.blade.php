@@ -229,7 +229,7 @@
                                         <p>An approach which suggests that the design of the website should interact with the user’s environment is called Responsive Web design. The user’s environment may include screen size, orientation and platform. A website which is designed with Responsive Web Design feature should adjust the layout using fluid, flexible images, proportional grids and CSS3 media queries.</p>
                                     </div>
                                     <div class="image-column col-lg-6 col-md-6 col-sm-12">
-                                        <figure class="image"><a href="/assets/images/resource/service-img.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
+                                        <figure class="image"><a href="/assets/images/resource/service-img1.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
                                     </div>
                                 </div>
                                 <div class="two-column row">
@@ -239,7 +239,7 @@
                                         <p>Many sites are cleaned on a daily basis and the problems are more or less the same: outdated software, or weak passwords or so on. Both the problems as well as solutions cannot be limited to any one of the programming languages. Though it is possible that the functions or methods carry different names, the basic principle is the same that is to prevent SQL Injection attacks.</p>
                                     </div>
                                     <div class="image-column col-lg-6 col-md-6 col-sm-12">
-                                        <figure class="image"><a href="/assets/images/resource/service-img.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
+                                        <figure class="image"><a href="/assets/images/resource/service-img2.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
                                     </div>
                                 </div>
                                 <div class="two-column row">

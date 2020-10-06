@@ -445,7 +445,7 @@
             <div class="auto-container">
                 <div class="sec-title text-center">
                     <span class="float-text">Call back</span>
-                    <h2>Request A <span>Quote</span></h2>
+                    <h2>Get In <span>Touch</span></h2>
                     <div class="text">Send us a email and we’ll get in touch shortly, or phone between <br>9:00AM to 5:00PM Monday to Friday - We would be delighted to speak.</div>
                 </div>
                 <div class="outer-box">

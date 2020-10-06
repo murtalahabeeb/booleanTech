@@ -127,7 +127,7 @@
                 <div class="swiper-wrapper banner-slider">
                     <!-- SLIDER ITEM -->
                     <div class="banner-slider-item swiper-slide">
-                        <figure class="media-wrapper slide-inner"><img src="/assets/images/main-slider/1.jpg" alt=""></figure>
+                        <figure class="media-wrapper slide-inner"><img src="/assets/images/main-slider/homepage-slider1.jpg" alt=""></figure>
 
                         <div class="content-box">
                             <div class="content">
@@ -146,7 +146,7 @@
 
                     <!-- SLIDER ITEM -->
                     <div class="banner-slider-item swiper-slide">
-                        <figure class="media-wrapper slide-inner"><img src="/assets/images/main-slider/3.jpg" alt=""></figure>
+                        <figure class="media-wrapper slide-inner"><img src="/assets/images/main-slider/homepage-slider2.jpg" alt=""></figure>
 
                         <div class="content-box">
                             <div class="content">
@@ -162,7 +162,7 @@
 
                     <!-- SLIDER ITEM -->
                     <div class="banner-slider-item swiper-slide">
-                        <figure class="media-wrapper slide-inner"><img src="/assets/images/main-slider/2.jpg" alt=""></figure>
+                        <figure class="media-wrapper slide-inner"><img src="/assets/images/main-slider/homepage-slider3.jpg" alt=""></figure>
 
                         <div class="content-box">
                             <div class="content">
@@ -178,7 +178,7 @@
 
                     <!-- SLIDER ITEM -->
                     <div class="banner-slider-item swiper-slide">
-                        <figure class="media-wrapper slide-inner"><img src="/assets/images/main-slider/4.jpg" alt=""></figure>
+                        <figure class="media-wrapper slide-inner"><img src="/assets/images/main-slider/homepage-slider4.jpg" alt=""></figure>
 
                         <div class="content-box">
                             <div class="content">
@@ -194,7 +194,7 @@
 
                     <!-- SLIDER ITEM -->
                     <div class="banner-slider-item swiper-slide">
-                        <figure class="media-wrapper slide-inner"><img src="/assets/images/main-slider/5.jpg" alt=""></figure>
+                        <figure class="media-wrapper slide-inner"><img src="/assets/images/main-slider/homepage-slider5.jpg" alt=""></figure>
 
                         <div class="content-box">
                             <div class="content">
@@ -210,7 +210,7 @@
 
                     <!-- SLIDER ITEM -->
                     <div class="banner-slider-item swiper-slide">
-                        <figure class="media-wrapper slide-inner"><img src="/assets/images/main-slider/6.jpg" alt=""></figure>
+                        <figure class="media-wrapper slide-inner"><img src="/assets/images/main-slider/homepage-slider6.jpg" alt=""></figure>
 
                         <div class="content-box">
                             <div class="content">

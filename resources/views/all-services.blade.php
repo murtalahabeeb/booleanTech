@@ -219,7 +219,7 @@
                     <div class="service-block-two col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="service-detail.html"><img src="/assets/images/resource/service-2.jpg" alt=""></a></figure>
+                                <figure class="image"><a href="service-detail.html"><img src="/assets/images/resource/service-3.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
                                 <h3><a href="/ios-dev">Ios Application Development</a></h3>
@@ -233,7 +233,7 @@
                     <div class="service-block-two col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="service-detail.html"><img src="/assets/images/resource/service-3.jpg" alt=""></a></figure>
+                                <figure class="image"><a href="service-detail.html"><img src="/assets/images/resource/service-4.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
                                 <h3><a href="/ui-ux">UI/UX Design & Prototyping</a></h3>
@@ -247,7 +247,7 @@
                     <div class="service-block-two col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="service-detail.html"><img src="/assets/images/resource/service-4.jpg" alt=""></a></figure>
+                                <figure class="image"><a href="service-detail.html"><img src="/assets/images/resource/service-5.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
                                 <h3><a href="/seo-digital-marketing">Digital Marketing/SEO</a></h3>
