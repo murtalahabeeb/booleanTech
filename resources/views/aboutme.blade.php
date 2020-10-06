@@ -39,7 +39,7 @@
                                 <li><a href="/ios-dev">Iphone App Development</a></li>
                                 <li><a href="/android-dev">Android App Development</a></li>
                                 <li><a href="/ui-ux">UI/UX Design And Prototyping</a></li>
-                                <li><a href="/seo-digital-marketing">Degital Marketing & SEO</a></li>
+                                <li><a href="/seo-digital-marketing">Digital Marketing & SEO</a></li>
                             </ul>
                         </li>
                         <li class="dropdown"><a href="/projects-details">Products</a>
@@ -124,7 +124,7 @@
                                         <li><a href="/ios-dev">Iphone App Development</a></li>
                                         <li><a href="/android-dev">Android App Development</a></li>
                                         <li><a href="/ui-ux">UI/UX Design And Prototyping</a></li>
-                                        <li><a href="/seo-digital-marketing">Degital Marketing & SEO</a></li>
+                                        <li><a href="/seo-digital-marketing">Digital Marketing & SEO</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="/projects-details">Products</a>
