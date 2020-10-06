@@ -40,7 +40,7 @@
                                 
                             </ul>
                         </li>
-                        <li class="dropdown"><a href="/projects-details">Products</a>
+                        <li class="dropdown"><a href="#">Products</a>
                             <ul>
                                 <li><a href="#">Resulta-School Management System</a></li>
                                 <li><a href="#">Face Analyser-Skin Care Assistant</a></li>

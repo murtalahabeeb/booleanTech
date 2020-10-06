@@ -42,7 +42,7 @@
                                 <li><a href="/seo-digital-marketing">Digital Marketing & SEO</a></li>
                             </ul>
                         </li>
-                        <li class="dropdown"><a href="/projects-details">Products</a>
+                        <li class="dropdown"><a href="#">Products</a>
                             <ul>
                                 <li><a href="#">Resulta-School Management System</a></li>
                                 <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
@@ -123,7 +123,7 @@
                                         <li><a href="/seo-digital-marketing">Digital Marketing & SEO</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="/projects-details">Products</a>
+                                    <li class="dropdown"><a href="#">Products</a>
                                         <ul>
                                             <li><a href="#">Resulta-School Management System</a></li>
                                             <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
@@ -195,9 +195,9 @@
                                 <figure class="image"><a href="service-detail.html"><img src="/assets/images/resource/service-1.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Web Application Developmen</a></h3>
+                                <h3><a href="/web-dev">Web Application Developmen</a></h3>
                                 <div class="text">We provide web application development services, so you can reach your customers easily.</div>
-                                <a href="service-detail.html" class="read-more">Read More</a>
+                                <a href="/web-dev" class="read-more">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -209,9 +209,22 @@
                                 <figure class="image"><a href="service-detail.html"><img src="/assets/images/resource/service-2.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Mobile Application Development</a></h3>
+                                <h3><a href="/android-dev">Android Application Development</a></h3>
                                 <div class="text">We specialize in designing and developing the highest quality enterprise mobile apps.</div>
-                                <a href="service-detail.html" class="read-more">Read More</a>
+                                <a href="/android-dev" class="read-more">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- service Block -->
+                    <div class="service-block-two col-lg-4 col-md-6 col-sm-12">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image"><a href="service-detail.html"><img src="/assets/images/resource/service-2.jpg" alt=""></a></figure>
+                            </div>
+                            <div class="lower-content">
+                                <h3><a href="/ios-dev">Ios Application Development</a></h3>
+                                <div class="text">We specialize in designing and developing the highest quality enterprise mobile apps.</div>
+                                <a href="/ios-dev" class="read-more">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -223,7 +236,7 @@
                                 <figure class="image"><a href="service-detail.html"><img src="/assets/images/resource/service-3.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">UI/UX Design & Prototyping</a></h3>
+                                <h3><a href="/ui-ux">UI/UX Design & Prototyping</a></h3>
                                 <div class="text">With a strong focus on UX/UI design best practices, we make sure the your app feels cool using.</div>
                                 <a href="service-detail.html" class="read-more">Read More</a>
                             </div>
@@ -237,9 +250,9 @@
                                 <figure class="image"><a href="service-detail.html"><img src="/assets/images/resource/service-4.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Digital Marketing/SEO</a></h3>
+                                <h3><a href="/seo-digital-marketing">Digital Marketing/SEO</a></h3>
                                 <div class="text">Developing a website is not enough. You must also make sure that internet knows your site.</div>
-                                <a href="service-detail.html" class="read-more">Read More</a>
+                                <a href="/seo-digital-marketing" class="read-more">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -281,7 +294,7 @@
                                 <li>Quality at Work</li>
                                 <li>Accountability</li>
                             </ul>
-                            <div class="btn-box"><a href="about-us.html" class="theme-btn btn-style-one"><span class="btn-title">Read More</span></a></div>
+                            <div class="btn-box"><a href="/about-us" class="theme-btn btn-style-one"><span class="btn-title">Read More</span></a></div>
                         </div>
                     </div>
 

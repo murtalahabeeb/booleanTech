@@ -43,7 +43,7 @@
                 <!-- .Side Nav -->
                 <nav class="side-nav">
                     <ul class="navigation clearfix" id="nav">
-                        <li class="dropdown"><a href="/">Home</a>
+                        <li class=""><a href="/">Home</a>
                             
                         </li>
                         <li class="current dropdown"><a href="/about-us">About</a>
@@ -66,7 +66,7 @@
                                 <li><a href="/seo-digital-marketing">Digital Marketing & SEO</a></li>
                             </ul>
                         </li>
-                        <li class="dropdown"><a href="/projects-details">Products</a>
+                        <li class="dropdown"><a href="#">Products</a>
                             <ul>
                                 <li><a href="#">Resulta-School Management System</a></li>
                                 <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
@@ -147,7 +147,7 @@
                                         <li><a href="/seo-digital-marketing">Digital Marketing & SEO</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="/projects-details">Products</a>
+                                    <li class="dropdown"><a href="#">Products</a>
                                         <ul>
                                             <li><a href="#">Resulta-School Management System</a></li>
                                             <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
@@ -333,15 +333,7 @@
                                 </ul>
                             </div>
 
-                            <!--Brochure Box-->
-                            <div class="sidebar-widget brochure-box">
-                                <div class="inner">
-                                    <h4>Download Brochures</h4>
-                                    <div class="text">Etiam tortor lorem, auctor ut orci ut, vehicula ultricies mauris. Sed pulvinar scelerisque.</div>
-                                    <a class="theme-btn btn-style-one" href="contact.html"><span class="btn-title"><i class="fa fa-file-pdf"></i> Download Brochures</span></a>
-                                    <a class="theme-btn btn-style-one" href="contact.html"><span class="btn-title"><i class="fa fa-file-pdf"></i> Company Presentation</span></a>
-                                </div>
-                            </div>  
+                            
 
 
                             <!-- Brochure -->
