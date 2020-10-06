@@ -18,9 +18,9 @@
                 <!-- .Side Nav -->
                 <nav class="side-nav">
                     <ul class="navigation clearfix" id="nav">
-                        <li class="dropdown"><a href="/index">Home</a>
+                        <li class="dropdown"><a href="/">Home</a>
                             <ul>
-                                <li><a href="/index">Home Showcase</a></li>
+                                <li><a href="/">Home Showcase</a></li>
                                 <li><a href="/carossel">Home Carousel</a></li>
                                 <li><a href="/home-banner">Home Banner</a></li>
                             </ul>
@@ -103,9 +103,9 @@
                         <nav class="main-menu navbar-expand-md navbar-light">
                             <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
-                                    <li class=" dropdown"><a href="/index">Home</a>
+                                    <li class=" dropdown"><a href="/">Home</a>
                                         <ul>
-                                            <li><a href="/index">Home Showcase</a></li>
+                                            <li><a href="/">Home Showcase</a></li>
                                             <li><a href="/carossel">Home Carousel</a></li>
                                             <li><a href="/home-banner">Home Banner</a></li>
                                         </ul>
@@ -197,24 +197,26 @@
 
                     <div class="contact-column col-lg-4 col-md-12 col-sm-12 order-2">
                         <div class="inner-column">
-                            <div class="text">We have very good strength in innovative technology and tools with over 35 years of experience. We makes long-term</div>
+                            <div class="text">We look forward to hearing more about your needs and making your next software project a success. Contact us now and we guarantee to get back to you as soon as possible.</div>
                             <ul class="contact-info">
                                 <li>
                                     <span class="icon fa fa-map-marker-alt"></span> 
-                                    <p><strong>32, Breaking Street,</strong></p>
-                                    <p>2nd cros, Newyork ,USA 10002</p>
+                                    <p><strong>Independence Avenue,</strong></p>
+                                    <p> CBD, Abuja.</p>
                                 </li>
 
                                 <li>
                                     <span class="icon fa fa-phone-volume"></span> 
                                     <p><strong>Call Us</strong></p>
-                                    <p><a href="tel:(92)12345678 ">(021) 345 5678 77</a></p>
+                                    <p><a href="tel:+234-909-426-7360">+234 909 426 7360</a></p>
+                                    <p><a href="tel:+234-902-208-1910">+234 902 208 1910</a></p>
                                 </li>
 
                                 <li>
                                     <span class="icon fa fa-envelope"></span> 
                                     <p><strong>Mail Us</strong></p>
-                                    <p><a href="mailto:support@example.com">Support@example.com</a></p>
+                                    <p><a href="mailto:info@thebooleantech.com.ng">info@thebooleantech.com.ng</a></p>
+                                    <p><a href="mailto:thebooleantech@gmail.com">thebooleantech@gmail.com</a></p>
                                 </li>
 
                                 <li>
