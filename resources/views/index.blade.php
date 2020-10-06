@@ -19,17 +19,13 @@
                 <nav class="side-nav">
                     <ul class="navigation clearfix" id="nav">
                         <li class="current dropdown"><a href="/">Home</a>
-                            <ul>
-                                <li><a href="/">Home Showcase</a></li>
-                                <li><a href="/carossel">Home Carousel</a></li>
-                                <li><a href="/home-banner">Home Banner</a></li>
-                            </ul>
+                            
                         </li>
                         <li class="dropdown"><a href="/about-us">About</a>
                             <ul>
                                 <li><a href="/about-us">About Us</a></li>
                                 <li><a href="/about-me">About Me</a></li>
-                                <li><a href="/faqs">FAQ's</a></li>
+                                
                                 <li><a href="/teams">Team</a></li>
                             </ul>
                         </li>
@@ -48,7 +44,7 @@
                             <ul>
                                 <li><a href="#">Resulta-School Management System</a></li>
                                 <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
-                                <li><a href="/projects-details">Products Details</a></li>
+                                
                             </ul>
                         </li>
                         
