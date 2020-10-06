@@ -21,8 +21,7 @@
                         <li class="dropdown"><a href="/">Home</a>
                             <ul>
                                 <li><a href="/">Home Showcase</a></li>
-                                <li><a href="/carossel">Home Carousel</a></li>
-                                <li><a href="/home-banner">Home Banner</a></li>
+                                
                             </ul>
                         </li>
                         <li class="current dropdown"><a href="/about-us">About</a>
@@ -47,7 +46,7 @@
                             <ul>
                                 <li><a href="#">Resulta-School Management System</a></li>
                                 <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
-                                <li><a href="/projects-details">Projects Details</a></li>
+                                <li><a href="/projects-details">Products Details</a></li>
                             </ul>
                         </li>
                         
@@ -132,7 +131,7 @@
                                         <ul>
                                             <li><a href="#">Resulta-School Management System</a></li>
                                             <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
-                                            <li><a href="/projects-details">Projects Details</a></li>
+                                            <li><a href="/projects-details">Products Details</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="/contact-us">Contact</a></li>

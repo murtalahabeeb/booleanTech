@@ -50,7 +50,7 @@
                             <ul>
                                 <li><a href="#">Resulta-School Management System</a></li>
                                 <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
-                                <li><a href="/projects-details">Projects Details</a></li>
+                                <li><a href="/projects-details">Products Details</a></li>
                             </ul>
                         </li>
                         
@@ -135,7 +135,7 @@
                                         <ul>
                                             <li><a href="#">Resulta-School Management System</a></li>
                                             <li><a href="#">Face Analyser-Skin Care Assistant</a></li>
-                                            <li><a href="/projects-details">Projects Details</a></li>
+                                            <li><a href="/projects-details">Products Details</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="/contact-us">Contact</a></li>
