@@ -26,7 +26,6 @@
                         <li class="current dropdown"><a href="/about-us">About</a>
                             <ul>
                                 <li><a href="/about-us">About Us</a></li>
-                                <li><a href="/about-me">About Me</a></li>
                                 
                                 <li><a href="/teams">Team</a></li>
                                 
@@ -107,7 +106,7 @@
                                     <li class="current dropdown"><a href="/about-us">About</a>
                                         <ul>
                                             <li><a href="/about-us">About Us</a></li>
-                                            <li><a href="/about-me">About Me</a></li>
+                                            
                                             
                                             <li><a href="/teams">Team</a></li>
                                         
@@ -301,7 +300,7 @@
                     <h2>Provide You The <span>Highest Quality</span><br> Work That Meets Your Expectation.</h2>
                     <div class="number"><a href="tel:(+291)-456-789-1234">+234 909 426 7360</a></div>
                     <div class="number"><a href="tel:(+291)-456-789-1234">+234 902 208 1910</a></div>
-                    <a href="contact.html" class="theme-btn btn-style-one"><span class="btn-title">Get A Quote</span></a>
+                    <a href="/contact-us" class="theme-btn btn-style-one"><span class="btn-title">Get In Touch</span></a>
                 </div>
             </div>
         </section>
@@ -429,7 +428,7 @@
         <!--End Fun Facts -->
 
         <!-- Video Section -->
-        <section class="video-section" style="background-image: url(/assets/images/background/2.jpg);" data-stellar-background-ratio="0.5">
+        <section class="video-section" style="background-image: url(/assets/images/background/6.jpg);" data-stellar-background-ratio="0.5">
             <div class="auto-container">
                 <div class="content-box">
                     <div class="text">WE’RE A LEADING TECH COMPANY</div>
@@ -479,12 +478,6 @@
                                         </div>
                                     </form>
                                 </div>
-                            </div>
-                        </div>
-
-                        <div class="image-column col-lg-6 col-md-12 col-sm-12">
-                            <div class="image-box wow fadeInRight">
-                                <figure class="image"><img src="/assets/images/resource/man.png" alt=""></figure>
                             </div>
                         </div>
                     </div>

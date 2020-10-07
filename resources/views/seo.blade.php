@@ -49,7 +49,7 @@
                         <li class="current dropdown"><a href="/about-us">About</a>
                             <ul>
                                 <li><a href="/about-us">About Us</a></li>
-                                <li><a href="/about-me">About Me</a></li>
+                                
                                
                                 <li><a href="/teams">Team</a></li>
 
@@ -131,7 +131,7 @@
                                     <li class="dropdown"><a href="/about-us">About</a>
                                         <ul>
                                             <li><a href="/about-us">About Us</a></li>
-                                            <li><a href="/about-me">About Me</a></li>
+                                            
                                             
                                             <li><a href="/teams">Team</a></li>
                                             
@@ -214,7 +214,7 @@
                             <!-- Image Box -->
                             <div class="image-box">
                                 <div class="image wow fadeIn">
-                                    <a href="/assets/images/resource/services-details.jpg" class="lightbox-image" data-fancybox="gallery"><img src="/assets/images/resource/services-details.jpg" alt=""></a>
+                                    <a href="/assets/images/resource/services-details-digital1.jpg" class="lightbox-image" data-fancybox="gallery"><img src="/assets/images/resource/services-details-digital1.jpg" alt=""></a>
                                 </div>
                             </div>
 
@@ -229,7 +229,7 @@
                                         <p>Whether you want to boost your online sales, improve online reputation, get higher ranks on search engines or want to recover from a penalty- we do it all for you.</p>
                                     </div>
                                     <div class="image-column col-lg-6 col-md-6 col-sm-12">
-                                        <figure class="image"><a href="/assets/images/resource/service-img.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
+                                        <figure class="image"><a href="/assets/images/resource/services-details-digital2.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/services-details-digital2.jpg" alt=""></a></figure>
                                     </div>
                                 </div>
                                 <div class="two-column row">
@@ -238,7 +238,7 @@
                                         <p>We, at The Boolean Tech with our years of experience in Social Media &  SEO Services, assure to make your online business more reachable using the best social media marketing strategies.</p>
                                     </div>
                                     <div class="image-column col-lg-6 col-md-6 col-sm-12">
-                                        <figure class="image"><a href="/assets/images/resource/service-img.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
+                                        <figure class="image"><a href="/assets/images/resource/services-details-digital3.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/services-details-digital3.jpg" alt=""></a></figure>
                                     </div>
                                 </div>
                                 <div class="two-column row">
@@ -247,7 +247,7 @@
                                         <p>Building an application is only a half of the deal. It is of no use until you deliver your app to your targeted users. This is a complex process and a true challenge considering an extremely tough competition in mobile app development industry nowadays.</p>
                                     </div>
                                     <div class="image-column col-lg-6 col-md-6 col-sm-12">
-                                        <figure class="image"><a href="/assets/images/resource/service-img.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
+                                        <figure class="image"><a href="/assets/images/resource/services-details-digital4.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/services-details-digital4.jpg" alt=""></a></figure>
                                     </div>
                                 </div>
                                 <div class="two-column row">
@@ -256,7 +256,7 @@
                                         <p>PPC advertisement services target your audience and improve the ads performance. It’s easy for searchers, good for search engines and best for online businesses!</p>
                                     </div>
                                     <div class="image-column col-lg-6 col-md-6 col-sm-12">
-                                        <figure class="image"><a href="/assets/images/resource/service-img.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
+                                        <figure class="image"><a href="/assets/images/resource/services-details-digital5.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/services-details-digital5.jpg" alt=""></a></figure>
                                     </div>
                                 </div>
                                 <h2>Why choose The Boolean Tech as your Digital Marketing and Marketing Research Partner</h2>

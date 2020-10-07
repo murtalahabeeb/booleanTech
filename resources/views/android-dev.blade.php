@@ -49,7 +49,6 @@
                         <li class="current dropdown"><a href="/about-us">About</a>
                             <ul>
                                 <li><a href="/about-us">About Us</a></li>
-                                <li><a href="/about-me">About Me</a></li>
                                 <li><a href="/teams">Team</a></li>
 
                             </ul>
@@ -130,7 +129,7 @@
                                     <li class="dropdown"><a href="/about-us">About</a>
                                         <ul>
                                             <li><a href="/about-us">About Us</a></li>
-                                            <li><a href="/about-me">About Me</a></li>
+                                            
                                             
                                             <li><a href="/teams">Team</a></li>
                                             
@@ -213,7 +212,7 @@
                             <!-- Image Box -->
                             <div class="image-box">
                                 <div class="image wow fadeIn">
-                                    <a href="/assets/images/resource/services-details.jpg" class="lightbox-image" data-fancybox="gallery"><img src="/assets/images/resource/services-details.jpg" alt=""></a>
+                                    <a href="/assets/images/resource/android1.jpg" class="lightbox-image" data-fancybox="gallery"><img src="/assets/images/resource/android1.jpg" alt=""></a>
                                 </div>
                             </div>
 
@@ -227,7 +226,7 @@
                                         <p>We have a separate developing edge and highly technically sound team working from last 4 years in this sphere. Constant research and central approach with our clients and market have increase our diameter of business in mobile app business.</p>
                                     </div>
                                     <div class="image-column col-lg-6 col-md-6 col-sm-12">
-                                        <figure class="image"><a href="/assets/images/resource/service-img.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
+                                        <figure class="image"><a href="/assets/images/resource/android2.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/android2.jpg" alt=""></a></figure>
                                     </div>
                                 </div>
                                 <h4>Our Android App Development Process</h4>

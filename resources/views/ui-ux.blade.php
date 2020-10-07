@@ -49,7 +49,7 @@
                         <li class="current dropdown"><a href="/about-us">About</a>
                             <ul>
                                 <li><a href="/about-us">About Us</a></li>
-                                <li><a href="/about-me">About Me</a></li>
+                                
                                 
                                 <li><a href="/teams">Team</a></li>
 
@@ -130,7 +130,7 @@
                                     <li class="dropdown"><a href="/about-us">About</a>
                                         <ul>
                                             <li><a href="/about-us">About Us</a></li>
-                                            <li><a href="/about-me">About Me</a></li>
+                                           
                                             
                                             <li><a href="/teams">Team</a></li>
                                             
@@ -213,7 +213,7 @@
                             <!-- Image Box -->
                             <div class="image-box">
                                 <div class="image wow fadeIn">
-                                    <a href="/assets/images/resource/services-details.jpg" class="lightbox-image" data-fancybox="gallery"><img src="/assets/images/resource/services-details.jpg" alt=""></a>
+                                    <a href="/assets/images/resource/services-details-ui-ux1.jpg" class="lightbox-image" data-fancybox="gallery"><img src="/assets/images/resource/services-details-ui-ux1.jpg" alt=""></a>
                                 </div>
                             </div>
 
@@ -227,7 +227,7 @@
                                         <p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure. because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself.</p>
                                     </div>
                                     <div class="image-column col-lg-6 col-md-6 col-sm-12">
-                                        <figure class="image"><a href="/assets/images/resource/service-img.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
+                                        <figure class="image"><a href="/assets/images/resource/services-details-ui-ux2.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/services-details-ui-ux2.jpg" alt=""></a></figure>
                                     </div>
                                 </div>
                                 <h4>Key Benefits of Service</h4>

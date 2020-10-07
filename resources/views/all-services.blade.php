@@ -25,7 +25,6 @@
                         <li class="dropdown"><a href="/about-us">About</a>
                             <ul>
                                 <li><a href="/about-us">About Us</a></li>
-                                <li><a href="/about-me">About Me</a></li>
                                 
                                 <li><a href="/teams">Team</a></li>
                                 
@@ -107,7 +106,7 @@
                                     <li class="dropdown"><a href="/about-us">About</a>
                                         <ul>
                                             <li><a href="/about-us">About Us</a></li>
-                                            <li><a href="/about-me">About Me</a></li>
+                                            
                                             
                                             <li><a href="/teams">Team</a></li>
                                             
@@ -267,8 +266,8 @@
         <section class="video-section" style="background-image: url(/assets/images/background/2.jpg);" data-stellar-background-ratio="0.5">
             <div class="auto-container">
                 <div class="content-box">
-                    <div class="text">WE’RE A LEADING INDUSTRY COMPANY</div>
-                    <h2>We Are Always at The <br>Forefront of The Industrial Market</h2>
+                    <div class="text">WE’RE A LEADING Tech COMPANY</div>
+                    <h2>We Are Always at The <br>Forefront of The Tech Market</h2>
                     <a href="https://www.youtube.com/watch?v=Fvae8nxzVz4" class="play-now" data-fancybox="gallery" data-caption=""><i class="icon flaticon-play-button-3" aria-hidden="true"></i><span class="ripple"></span></a>
                 </div>
             </div>

@@ -49,7 +49,7 @@
                         <li class="current dropdown"><a href="/about-us">About</a>
                             <ul>
                                 <li><a href="/about-us">About Us</a></li>
-                                <li><a href="/about-me">About Me</a></li>
+                                
                                 
                                 <li><a href="/teams">Team</a></li>
 
@@ -130,7 +130,7 @@
                                     <li class="dropdown"><a href="/about-us">About</a>
                                         <ul>
                                             <li><a href="/about-us">About Us</a></li>
-                                            <li><a href="/about-me">About Me</a></li>
+                                            
                                             
                                             <li><a href="/teams">Team</a></li>
                                             
@@ -213,7 +213,7 @@
                             <!-- Image Box -->
                             <div class="image-box">
                                 <div class="image wow fadeIn">
-                                    <a href="/assets/images/resource/services-details.jpg" class="lightbox-image" data-fancybox="gallery"><img src="/assets/images/resource/services-details.jpg" alt=""></a>
+                                    <a href="/assets/images/resource/services-details-ios.jpg" class="lightbox-image" data-fancybox="gallery"><img src="/assets/images/resource/services-details-ios.jpg" alt=""></a>
                                 </div>
                             </div>
 
@@ -227,7 +227,7 @@
                                         <p>The Boolean Tech is a leading name in Mobile app Development Company Nigeria. Our iPhone app Developers are experts in their trade and provide best solution in iPhone application development. We are highly skilled in designing dynamic and interactive iPhone apps with highly customized features.</p>
                                     </div>
                                     <div class="image-column col-lg-6 col-md-6 col-sm-12">
-                                        <figure class="image"><a href="/assets/images/resource/service-img.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
+                                        <figure class="image"><a href="/assets/images/resource/services-details-ios2.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/services-details-ios2.jpg" alt=""></a></figure>
                                     </div>
                                 </div>
                                 <h4>iPhone App Development Process</h4>

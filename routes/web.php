@@ -18,26 +18,11 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/carossel', function () {
-    return view('home-carossel');
-});
-
-Route::get('/home-banner', function () {
-    return view('home-banner');
-});
 
 Route::get('/about-us', function () {
     return view('aboutus');
 });
 
-Route::get('/about-me', function () {
-    return view('aboutme');
-});
-
-
-Route::get('/faqs', function () {
-    return view('faqs');
-});
 
 
 Route::get('/teams', function () {
@@ -70,21 +55,6 @@ Route::get('/ui-ux', function () {
 Route::get('/seo-digital-marketing', function () {
     return view('seo');
 });
-
-
-Route::get('/projects', function () {
-    return view('projects');
-});
-
-Route::get('/projects-details', function () {
-    return view('project-details');
-});
-
-
-Route::get('/projects2', function () {
-    return view('project2');
-});
-
 
 Route::get('/contact-us', function () {
     return view('contact');

@@ -24,7 +24,7 @@
                         <li class="dropdown"><a href="/about-us">About</a>
                             <ul>
                                 <li><a href="/about-us">About Us</a></li>
-                                <li><a href="/about-me">About Me</a></li>
+                              
                                 
                                 <li><a href="/teams">Team</a></li>
                             </ul>

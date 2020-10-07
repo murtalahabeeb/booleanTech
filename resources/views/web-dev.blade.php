@@ -49,7 +49,7 @@
                         <li class="current dropdown"><a href="/about-us">About</a>
                             <ul>
                                 <li><a href="/about-us">About Us</a></li>
-                                <li><a href="/about-me">About Me</a></li>
+                                
                                 
                                 <li><a href="/teams">Team</a></li>
 
@@ -130,7 +130,7 @@
                                     <li class="dropdown"><a href="/about-us">About</a>
                                         <ul>
                                             <li><a href="/about-us">About Us</a></li>
-                                            <li><a href="/about-me">About Me</a></li>
+                                            
                                             
                                             <li><a href="/teams">Team</a></li>
                                             
@@ -229,7 +229,7 @@
                                         <p>An approach which suggests that the design of the website should interact with the user’s environment is called Responsive Web design. The user’s environment may include screen size, orientation and platform. A website which is designed with Responsive Web Design feature should adjust the layout using fluid, flexible images, proportional grids and CSS3 media queries.</p>
                                     </div>
                                     <div class="image-column col-lg-6 col-md-6 col-sm-12">
-                                        <figure class="image"><a href="/assets/images/resource/service-img1.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
+                                        <figure class="image"><a href="/assets/images/resource/services-details-web1.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/services-details-web1.jpg" alt=""></a></figure>
                                     </div>
                                 </div>
                                 <div class="two-column row">
@@ -239,7 +239,7 @@
                                         <p>Many sites are cleaned on a daily basis and the problems are more or less the same: outdated software, or weak passwords or so on. Both the problems as well as solutions cannot be limited to any one of the programming languages. Though it is possible that the functions or methods carry different names, the basic principle is the same that is to prevent SQL Injection attacks.</p>
                                     </div>
                                     <div class="image-column col-lg-6 col-md-6 col-sm-12">
-                                        <figure class="image"><a href="/assets/images/resource/service-img2.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
+                                        <figure class="image"><a href="/assets/images/resource/services-details-web2.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/services-details-web2.jpg" alt=""></a></figure>
                                     </div>
                                 </div>
                                 <div class="two-column row">
@@ -249,7 +249,7 @@
                                         <p>The programs under Website maintenance ensure that the site is updated which makes the project within the budget. These programs include images updates, content updates, telephonic support. It includes editing, revising, editing, or changing the existing web pages which make the website updated. The value each website carries comes from its ability to maintain the existing information online and that too at a reasonable price.</p>
                                     </div>
                                     <div class="image-column col-lg-6 col-md-6 col-sm-12">
-                                        <figure class="image"><a href="/assets/images/resource/service-img.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/service-img.jpg" alt=""></a></figure>
+                                        <figure class="image"><a href="/assets/images/resource/services-details-web4.jpg" class="lightbox-image" data-fancybox="images"><img src="/assets/images/resource/services-details-web4.jpg" alt=""></a></figure>
                                     </div>
                                 </div>
                                 <h4>Our Web App Development Process</h4>
