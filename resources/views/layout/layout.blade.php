@@ -9,6 +9,7 @@
 <link href="/assets/css/bootstrap.css" rel="stylesheet">
 <link href="/assets/css/style.css" rel="stylesheet">
 <link href="/assets/css/responsive.css" rel="stylesheet">
+<link href="/assets/css/main.css" rel="stylesheet">
 <!--Color Switcher Mockup-->
 <link href="/assets/css/color-switcher-design.css" rel="stylesheet">
 

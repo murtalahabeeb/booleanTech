@@ -115,7 +115,7 @@
             <div class="outer-container">
                 <div class="main-box clearfix">
                     <div class="logo-box">
-                        <div class="logo"><a href="/"><img src="/assets/images/logo.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="/"><img src="/assets/images/LOGO-WHITE.png" alt="" title=""></a></div>
                     </div>
 
                     <div class="nav-outer">
@@ -163,10 +163,7 @@
                             <!-- Shoppping Car -->
                             
 
-                            <!-- Search Btn -->
-                            <div class="search-box">
-                                <button class="search-btn"><i class="fa fa-search"></i></button>
-                            </div>
+                           
 
                             <!-- Btn box -->
                             <div class="btn-box no-touch"><button class="nav-toggler"><span></span></button></div>
@@ -178,17 +175,7 @@
         </header>
         <!--End Main Header -->
 
-        <!-- Search Popup -->
-        <div class="search-popup">
-            <button class="close-search"><span class="fa fa-long-arrow-alt-up"></span></button>
-            <form method="post" action="http://ary-themes.com/html/sinaea/blog.html">
-                <div class="form-group">
-                    <input type="search" name="search-field" value="" placeholder="Search" required="">
-                    <button type="submit"><i class="fa fa-search"></i></button>
-                </div>
-            </form>
-        </div>
-        <!-- End Search Popup -->
+       
 
         <!--Page Title-->
         <section class="page-title" style="background-image:url(/assets/images/background/9.jpg)">
@@ -347,7 +334,7 @@
                                 <div class="footer-column col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                     <div class="footer-widget about-widget">
                                         <div class="logo">
-                                            <a href="/"><img src="/assets/images/logo.png" alt="" /></a>
+                                            <a href="/"><img src="/assets/images/LOGO-WHITE.png" alt="" /></a>
                                         </div>
                                         <div class="text">
                                             <p>We are a boutique consultation firm that specialize in building great customer experiences through mobile, web and conversational software..</p>           
