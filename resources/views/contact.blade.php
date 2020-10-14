@@ -208,8 +208,11 @@
                     </div>
 
                     <!-- Form Column -->
+                   
                     <div class="form-column col-lg-8 col-md-12 col-sm-12">
+                    
                         <div class="inner-column">
+                        @include("inc.error_messages")
                             <div class="contact-form">
                                 <form method="post" action="/contact-us" id="contact-form">
                                     @csrf
