@@ -204,7 +204,7 @@
                                 <div class="auto-container">
                                     <h3>Getting Things<span class="theme_color"> Done</span></h3>
                                     <div class="text">Getting Things Done is the mantra we live by. Our ingenious team <br> has a “can-do” attitude and believes in Getting Things Done. This <br> mantra makes sense when we deliver our client’s project on time. </div>
-                                    <div class="btn-box"><a href="/contact" class="theme-btn btn-style-two"><span class="btn-title">Contact Us</span></a></div>
+                                    <div class="btn-box"><a href="/contact-us" class="theme-btn btn-style-two"><span class="btn-title">Contact Us</span></a></div>
                                 </div>
                             </div>
                         </div>
@@ -221,12 +221,7 @@
 
                 <!-- Social Links -->
                 <div class="circular-menu">
-                    <div class="items-wrapper">
-                        <a href="#" class="menu-item"><span class="fab fa-facebook"></span></a>
-                        <a href="#" class="menu-item"><span class="fab fa-twitter"></span></a>
-                        <a href="#" class="menu-item"><span class="fab fa-google-plus-g"></span></a>
-                        <a href="#" class="menu-item"><span class="fab fa-linkedin-in"></span></a>
-                    </div>
+                    
                     <button class="floating-btn"><i class="fa fa-share-alt"></i></button>
                 </div>
             </div>

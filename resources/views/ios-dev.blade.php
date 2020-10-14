@@ -352,35 +352,12 @@
                                         <div class="text">
                                             <p>We are a boutique consultation firm that specialize in building great customer experiences through mobile, web and conversational software..</p>           
                                         </div>
-                                        <ul class="social-icon-two">
-                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-skype"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                        </ul>
+                                        
                                     </div>
                                 </div>
 
                                 <!--Footer Column-->
-                                <div class="footer-column col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                    <!--Footer Column-->
-                                    <div class="footer-widget recent-posts">
-                                        <h2 class="widget-title">Latest News</h2>
-                                         <!--Footer Column-->
-                                        <div class="widget-content">
-                                            <div class="post">
-                                                <h4><a href="blog-single.html">We won the award for best factory of the year 2019.</a></h4>
-                                                <span class="date"><span class="far fa-calendar-alt"></span> August 1, 2019</span>
-                                            </div>
-
-                                            <div class="post">
-                                                <h4><a href="blog-single.html">We are Best for Industrial and Business Solution.</a></h4>
-                                                <span class="date"><span class="far fa-calendar-alt"></span> August 2, 2019</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                
                             </div>
                         </div>
 
@@ -453,8 +430,8 @@
                         <div class="footer-nav">
                             <ul class="clearfix">
                                <li><a href="#">Privacy Policy</a></li> 
-                               <li><a href="#">Contact</a></li> 
-                               <li><a href="#">Supplier</a></li>  
+                               <li><a href="tel:+234-902-208-1910">Contact</a></li> 
+                                
                             </ul>
                         </div>
                         

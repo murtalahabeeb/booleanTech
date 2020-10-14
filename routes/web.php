@@ -1,6 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Mail\ContactMessage;
+use Illuminate\Support\Facades\Mail;
+use Illuminate\Http\Request;
 
 /*
 |--------------------------------------------------------------------------
@@ -15,6 +18,7 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('/', function () {
+
     return view('index');
 });
 
@@ -58,4 +62,17 @@ Route::get('/seo-digital-marketing', function () {
 
 Route::get('/contact-us', function () {
     return view('contact');
+});
+
+Route::post('/contact-us', function(Request $request) {
+    $request->validate([
+        'name'=>'required',
+        'phone' =>'required|min:11|max:11',
+        'email'=>'required|email',
+        'message'=>'required'
+
+    ]);
+    $data=['name'=>$request->input("name"),'phone'=>$request->input("phone"),'email'=>$request->input("email"),'message'=>$request->input("message"),'subject'=>$request->input("subject")];
+    Mail::to("thebooleantech@gmail.com")->send(new ContactMessage($data));
+    return redirect("/contact-us");
 });

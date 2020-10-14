@@ -203,13 +203,7 @@
                                 </li>
                             </ul>
 
-                            <ul class="social-icon-two">
-                                <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-google-plus"></i></a></li>
-                                <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                            </ul>
+                            
                         </div>
                     </div>
 
@@ -217,10 +211,11 @@
                     <div class="form-column col-lg-8 col-md-12 col-sm-12">
                         <div class="inner-column">
                             <div class="contact-form">
-                                <form method="post" action="http://ary-themes.com/html/sinaea/sendemail.php" id="contact-form">
+                                <form method="post" action="/contact-us" id="contact-form">
+                                    @csrf
                                     <div class="row clearfix">
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                            <input type="text" name="username" placeholder="Name" required="">
+                                            <input type="text" name="name" placeholder="Name" required="">
                                         </div>
                                         
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
@@ -310,35 +305,12 @@
                                         <div class="text">
                                             <p>We are a boutique consultation firm that specialize in building great customer experiences through mobile, web and conversational software..</p>           
                                         </div>
-                                        <ul class="social-icon-two">
-                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-skype"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                        </ul>
+                                        
                                     </div>
                                 </div>
 
                                 <!--Footer Column-->
-                                <div class="footer-column col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                    <!--Footer Column-->
-                                    <div class="footer-widget recent-posts">
-                                        <h2 class="widget-title">Latest News</h2>
-                                         <!--Footer Column-->
-                                        <div class="widget-content">
-                                            <div class="post">
-                                                <h4><a href="blog-single.html">We won the award for best factory of the year 2019.</a></h4>
-                                                <span class="date"><span class="far fa-calendar-alt"></span> August 1, 2019</span>
-                                            </div>
-
-                                            <div class="post">
-                                                <h4><a href="blog-single.html">We are Best for Industrial and Business Solution.</a></h4>
-                                                <span class="date"><span class="far fa-calendar-alt"></span> August 2, 2019</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                
                             </div>
                         </div>
 
@@ -411,8 +383,8 @@
                         <div class="footer-nav">
                             <ul class="clearfix">
                                <li><a href="#">Privacy Policy</a></li> 
-                               <li><a href="#">Contact</a></li> 
-                               <li><a href="#">Supplier</a></li>  
+                               <li><a href="tel:+234-902-208-1910">Contact</a></li> 
+                               
                             </ul>
                         </div>
                         
